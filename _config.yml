@@ -1,6 +1,10 @@
 layout: stacked
 style: dark
 
+user:
+  email: hello@lsantos.dev
+  bio: teste
+
 plugins:
   - jekyll-octicons
   - jekyll-github-metadata
@@ -42,7 +46,6 @@ social_media:
   telegram: lhs_santoss
   medium: khaosdoctor
   speakerdeck: khaosdoctor
-  telegram: lhs_santoss
   # youtube: your_username
 
 topics:
