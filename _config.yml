@@ -3,7 +3,7 @@ style: dark
 
 user:
   email: hello@lsantos.dev
-  bio: teste
+  bio: Developer since 2011, working with high availability web and cloud native applications since 2013. Homebrewer in the free time. Microsoft MVP, technology lover who also loves the opportunity to make mistakes and learn from them and from others. I also organize and coordinate community events like <a target="blank" class="user-anchor" href="https://github.com/abc-dev">ABC-Dev</a> and local communities such as NodeBR and JSSP.
 
 plugins:
   - jekyll-octicons
