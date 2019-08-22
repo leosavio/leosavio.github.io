@@ -59,4 +59,4 @@ mvp:
 devto:
   name: Dev Community
   profile_url_prefix: https://dev.to/
-  icon_svg: '<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />'
+  icon_svg: '<img style="width: 24px; filter: invert(0.55);" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />'
