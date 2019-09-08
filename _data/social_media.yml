@@ -60,3 +60,8 @@ devto:
   name: Dev Community
   profile_url_prefix: https://dev.to/
   icon_svg: '<img style="width: 24px; filter: invert(0.55);" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />'
+
+patreon:
+  name: Support me on Patreon
+  profile_url_prefix: https://patreon.com/
+  icon_svg: '<img style="width: 24px; filter: invert(0.55);" src="https://raw.githubusercontent.com/khaosdoctor/khaosdoctor.github.io/master/assets/Patreon.svg" />'
