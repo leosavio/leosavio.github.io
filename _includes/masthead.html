@@ -41,7 +41,7 @@
     {% if site.user.sponsorLink %}
       <div class="{{ metadata_styles }} {% if site.style == 'dark' %}text-white{% endif %}">
         {% octicon heart height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:Sponsor %}
-        <a href="{{ user.sponsorLink }}" target="_blank">Support my work!</a>
+        <a style="color: inherit;" href="{{ site.user.sponsorLink }}" target="_blank">Support my work!</a>
       </div>
     {% endif %}
     {% if site.social_media %}
