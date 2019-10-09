@@ -13,9 +13,6 @@
     {{ user.bio }}
   {% endif %}
 </p>
-<p class="mb-3 f4 {% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}">
-  <center><strong>Check out <a href="http://tudosobrekubernetes.tech" target="_blank">my book about Kubernetes</a>!</strong></center>
-</p>
 
 {% if include.metadata %}
   <div class="f4 mb-6">
@@ -47,6 +44,10 @@
         <a style="color: inherit;" href="{{ site.user.sponsorLink }}" target="_blank">Support my work!</a>
       </div>
     {% endif %}
+      <div class="{{ metadata_styles }} {% if site.style == 'dark' %}text-white{% endif %}">
+        {% octicon book height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:Sponsor %}
+        <a style="color: inherit;" href="https://tudosobrekubernetes.tect" target="_blank">Check out my book!</a>
+      </div>
     {% if site.social_media %}
       <div class="d-flex flex-wrap flex-items-start {% if site.layout == 'stacked' %}flex-justify-center mt-1 mt-md-3{% endif %}">
         {% for account in site.social_media %}
