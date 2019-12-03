@@ -31,11 +31,11 @@ projects:
     forks: true
     projects:
       # - gotql
-      # - delay.css
+      # - zaqar
       # - my-notes
-      # - design-patterns-for-humans
-      # - nxcd/tardis
-      # - nxcd/paradox
+      # - hermod
+      # - irontitan/tardis
+      # - irontitan/paradox
 
 social_media:
   # behance: your_username
