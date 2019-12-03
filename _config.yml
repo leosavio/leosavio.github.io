@@ -22,7 +22,7 @@ defaults:
       layout: "post"
 
 projects:
-#   sort_by: stars
+  sort_by: stars
   # sort_by options:
   #   - pushed
   #   - stars
@@ -30,12 +30,12 @@ projects:
   exclude:
     forks: true
     projects:
-      - gotql
-      - zaqar
-      - my-notes
-      - hermod
-      - irontitan/tardis
-      - irontitan/paradox
+#       - gotql
+#       - zaqar
+#       - my-notes
+#       - hermod
+#       - irontitan/tardis
+#       - irontitan/paradox
 
 social_media:
   # behance: your_username
