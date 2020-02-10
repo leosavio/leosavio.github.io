@@ -3,288 +3,288 @@
   "date": "2020-01-30T03:00:00.000Z",
   "title": "Dealing With Unexpected Data in JavaScript (English Version)",
   "description": "In this article we discuss how we can deal with nulls and undefineds in JavaScript, if are there best practices and, if so, what are them.",
-  "type": "Article",
-  "category": "Javascript/Typescript",
+  "type": "article",
+  "categories": ["typescript", "javascript"],
   "url": "https://dev.to/khaosdoctor/dealing-with-unexpected-data-in-javascript-2kda"
 }, {
   "id": 2,
   "date": "2020-01-29T03:00:00.000Z",
   "title": "Dealing with Unexpected Data in JavaScript",
   "description": "In this article we discuss how we can deal with nulls and undefineds in JavaScript, if are there best practices and, if so, what are them.",
-  "type": "Article",
-  "category": "Javascript/Typescript",
+  "type": "article",
+  "categories": ["typescript", "javascript"],
   "url": "https://dev.to/khaosdoctor/lidando-com-dados-inesperados-em-javascript-1n2i"
 }, {
   "id": 3,
   "date": "2020-01-28T03:00:00.000Z",
   "title": "Why Your Data Relations Matter",
   "description": "In this meetup I explain what are graph databases and how to use them the best way",
-  "type": "Speaking (User Group/Meetup/Local events)",
-  "category": "Azure Cosmos DB",
+  "type": "talk",
+  "categories": "Azure Cosmos DB",
   "url": "https://www.meetup.com/nosqlsp/events/267818708/"
 }, {
   "id": 4,
   "date": "2020-01-14T03:00:00.000Z",
   "title": "JavaScript in 2020: What to expect",
   "description": "In this article we talk about all the features JS has to offer us in this 2020.",
-  "type": "Article",
-  "category": "Javascript/Typescript",
+  "type": "article",
+  "categories": ["typescript", "javascript"],
   "url": "https://imasters.com.br/javascript/javascript-em-2020-o-que-esperar"
 }, {
   "id": 5,
   "date": "2020-01-13T03:00:00.000Z",
   "title": "Node.js Under The Hood #6 - The Old V8 (Portuguese Edition)",
   "description": "In this article of the series we talk about how V8 used to use Crankshaft and other compilers to compile JavaScript code!",
-  "type": "Article",
-  "category": "Node.js",
+  "type": "article",
+  "categories": ["nodejs", "javascript"],
   "url": "https://dev.to/khaosdoctor/node-js-por-baixo-dos-panos-6-the-old-v8-384k"
 }, {
   "id": 6,
   "date": "2020-01-05T03:00:00.000Z",
   "title": "Node.js Under The Hood #7 - The new V8",
   "description": "In this article of the series we explore more about Turbofan, Ignition, bytecodes and the new V8 compiling pipeline",
-  "type": "Article",
-  "category": "Javascript/Typescript",
+  "type": "article",
+  "categories": ["typescript", "javascript"],
   "url": "https://dev.to/khaosdoctor/node-js-under-the-hood-7-the-new-v8-4gd6"
 }, {
   "id": 7,
   "date": "2019-12-12T03:00:00.000Z",
   "title": "Optional Chaining & Nullish Coalescence Operators in TypeScript",
   "description": "In this article we'll discuss the new implementations for the next step of ECMAScript and how we can apply them on TS right now.",
-  "type": "Article",
-  "category": "Javascript/Typescript",
+  "type": "article",
+  "categories": ["typescript", "javascript"],
   "url": "https://imasters.com.br/javascript/optional-chaining-e-null-coalescing-operator-com-typescript"
 }, {
   "id": 8,
   "date": "2019-12-05T03:00:00.000Z",
   "title": "Node.js Under The Hood #6 - The Old V8",
   "description": "In this article of the series, we talk about the old compiler pipeline v8 used to have before TurboFan and Ignition.",
-  "type": "Article",
-  "category": "Node.js",
+  "type": "article",
+  "categories": ["nodejs", "javascript"],
   "url": "https://dev.to/khaosdoctor/node-js-under-the-hood-6-the-old-v8-34hm"
 }, {
   "id": 9,
   "date": "2019-12-05T03:00:00.000Z",
   "title": "Café Debug #34 - Manda Nodejs!",
   "description": "In this funny podcast we talk about Node.js in all its forms, what it is, how it came to be and what it does to us!",
-  "type": "Video/Webcast/Podcast",
-  "category": "Node.js",
+  "type": "podcast",
+  "categories": ["nodejs", "javascript"],
   "url": "https://open.spotify.com/episode/06tuFAWkp4W0CzF4OYnds5?si=5zpsxYV0SpSjlVe6-K1hYQ"
 }, {
   "id": 10,
   "date": "2019-11-23T03:00:00.000Z",
   "title": "DevFest Galway - Dynamic Testing Environments Using Helm and Kubernetes",
   "description": "In this presentation I show how we can leverage Helm and Kubernetes to create dynamic testing environments.",
-  "type": "Speaking (Conference)",
-  "category": "Container Management",
+  "type": "talk",
+  "categories": "Container Management",
   "url": "https://speakerdeck.com/khaosdoctor/dynamic-environments-using-helm-and-kubernetes"
 }, {
   "id": 11,
   "date": "2019-11-19T03:00:00.000Z",
   "title": "Applying Kubernetes to Node.js Microservices",
   "description": "In this talk I took the project made by another speaker and together, me and the crowd, tried to move it to Kubernetes. We applied all configurations, understood what Kubernetes is and how it works.",
-  "type": "Speaking (User Group/Meetup/Local events)",
-  "category": "Container Management",
+  "type": "talk",
+  "categories": "Container Management",
   "url": "https://www.meetup.com/totvsdevelopers/events/265781352/"
 }, {
   "id": 12,
   "date": "2019-11-19T03:00:00.000Z",
   "title": "Node.js Under The Hood #5 - Hidden Classes and Variable Allocation",
   "description": "In this article we discuss how V8 engine takes a dynamic language such as JavaScript and runs it on a static compiler.",
-  "type": "Article",
-  "category": "Node.js",
+  "type": "article",
+  "categories": ["nodejs", "javascript"],
   "url": "https://dev.to/khaosdoctor/node-js-under-the-hood-5-hidden-classes-variable-allocations-1244"
 }, {
   "id": 13,
   "date": "2019-11-15T03:00:00.000Z",
   "title": "Scaling Node.js Applications With Kubernetes",
   "description": "In this talk we explore what Kubernetes is, how it came to be, how is our current workflow without it and how we can upgrade our pipeline by using Kubernetes do scale and manage our containers",
-  "type": "Speaking (Conference)",
-  "category": "Azure Container Services (Docker, Windows Server)",
+  "type": "talk",
+  "categories": "Azure Container Services (Docker, Windows Server)",
   "url": "https://speakerdeck.com/khaosdoctor/escalabilidade-de-servicos-com-kubernetes"
 }, {
   "id": 14,
   "date": "2019-11-11T03:00:00.000Z",
   "title": "Scaling JavaScript applications with Kubernetes",
   "description": "In this talk I explain what Kubernetes is and how we can use it fully to scale our applications",
-  "type": "Speaking (User Group/Meetup/Local events)",
-  "category": "Azure Container Services (Docker, Windows Server)",
+  "type": "talk",
+  "categories": "Azure Container Services (Docker, Windows Server)",
   "url": "https://speakerdeck.com/khaosdoctor/escalabilidade-de-servicos-com-kubernetes"
 }, {
   "id": 15,
   "date": "2019-11-09T03:00:00.000Z",
   "title": "GDG Manaus: The Dark Side Of JavaScript",
   "description": "In this talk we discuss about APIs JavaScript had for a long long time but no one actually knew what they were or how to use them.",
-  "type": "Speaking (Conference)",
-  "category": "Javascript/Typescript",
+  "type": "talk",
+  "categories": ["typescript", "javascript"],
   "url": "https://jungles.dev/fest"
 }, {
   "id": 16,
   "date": "2019-10-22T03:00:00.000Z",
   "title": "Career talks for technical students in São Paulo",
   "description": "I was grateful to be selected to be one of the speakers at ETEC Embu, during their technical week where I could talk about career, a bit of my story, how I got here, funny but memorable stories and tips for those who want to eventually become a developer.",
-  "type": "Speaking (User Group/Meetup/Local events)",
-  "category": "Javascript/Typescript",
+  "type": "talk",
+  "categories": ["typescript", "javascript"],
   "url": ""
 }, {
   "id": 17,
   "date": "2019-10-19T03:00:00.000Z",
   "title": "Dissecting Node.js to the bone",
   "description": "In this talk I go through all the aspects of Node.js from the highest level code to the bare bone of V8. We talk about compiling pipelines, bytecodes, call stack and frames, event loop and a lot of other stuff so people can not only use node, but completely understand it.",
-  "type": "Speaking (Conference)",
-  "category": "Node.js",
+  "type": "talk",
+  "categories": ["nodejs", "javascript"],
   "url": "https://speakerdeck.com/khaosdoctor/dissecting-node-dot-js-understanding-the-most-famous-js-runtime-to-the-bare-bone"
 }, {
   "id": 18,
   "date": "2019-10-18T03:00:00.000Z",
   "title": "The Future of Promises in JavaScript",
   "description": "In this article I'll be talking about how the Promises ecosystem is evolving and how the new proposals are making it awesome!",
-  "type": "Article",
-  "category": "Javascript/Typescript",
+  "type": "article",
+  "categories": ["typescript", "javascript"],
   "url": "https://imasters.com.br/javascript/futuro-das-promises-no-javascript"
 }, {
   "id": 19,
   "date": "2019-10-17T03:00:00.000Z",
   "title": "Node.js Under The Hood #4 - Let's Talk About V8",
   "description": "In this article we continue to explain Node.js Under The Hood by talking topics. In this particular topic we cover part of how V8 works and ASTs",
-  "type": "Article",
-  "category": "Node.js",
+  "type": "article",
+  "categories": ["nodejs", "javascript"],
   "url": "https://dev.to/khaosdoctor/node-js-under-the-hood-4-let-s-talk-about-v8-1eol"
 }, {
   "id": 20,
   "date": "2019-10-15T03:00:00.000Z",
   "title": "Node.js under the hood #3 - Deep Dive into the event loop (portuguese version)",
   "description": "In this portuguese version of this article, we'll deep dive into the Node.js event loop and understand how ticks work",
-  "type": "Article",
-  "category": "Node.js",
+  "type": "article",
+  "categories": ["nodejs", "javascript"],
   "url": "https://dev.to/khaosdoctor/node-js-por-baixo-dos-panos-3-um-mergulho-no-event-loop-38l9"
 }, {
   "id": 21,
   "date": "2019-10-08T03:00:00.000Z",
   "title": "Kubernetes: An introduction to container management",
   "description": "In this webinar I talk about what is Kubernetes, how it works, what it can do and how we can take the most of it when creating our container infrastructure",
-  "type": "Video/Webcast/Podcast",
-  "category": "Container Management",
+  "type": "video",
+  "categories": "Container Management",
   "url": "https://digitalinnovation.one/projetos/kubernetes-uma-introducao-gerencia-de-conteineres"
 }, {
   "id": 22,
   "date": "2019-10-05T03:00:00.000Z",
   "title": "#NoSQLBR 2019 - Why your data relations matter?",
   "description": "In this particular talk I gave at NoSQL BR we talked about graph databases and how they can be a life changing experience both the way we create databases and manage our data but also on how we extract intelligence from this data.",
-  "type": "Speaking (Conference)",
-  "category": "Azure Cosmos DB",
+  "type": "talk",
+  "categories": "Azure Cosmos DB",
   "url": "https://speakerdeck.com/khaosdoctor/por-que-suas-relacoes-importam"
 }, {
   "id": 23,
   "date": "2019-10-04T03:00:00.000Z",
   "title": "Why your data relations matter?",
   "description": "In this particular talk I gave at Mackenzie University we talked about graph databases and how they can be a life changing experience both the way we create databases and manage our data but also on how we extract intelligence from this data.",
-  "type": "Speaking (User Group/Meetup/Local events)",
-  "category": "Azure Cosmos DB",
+  "type": "talk",
+  "categories": "Azure Cosmos DB",
   "url": "https://speakerdeck.com/khaosdoctor/por-que-suas-relacoes-importam"
 }, {
   "id": 24,
   "date": "2019-10-04T03:00:00.000Z",
   "title": "GraphQL: A new way to build APIs",
   "description": "In this talk I explain the concept behind GraphQL, its origins and how we can take the most of it",
-  "type": "Speaking (User Group/Meetup/Local events)",
-  "category": "Javascript/Typescript",
+  "type": "talk",
+  "categories": ["typescript", "javascript"],
   "url": "https://speakerdeck.com/khaosdoctor/graphql-para-iniciantes"
 }, {
   "id": 25,
   "date": "2019-10-02T03:00:00.000Z",
   "title": "Dissecting Node.js",
   "description": "In this talk I deep dive into the architectural aspects of Node.js and show how it works. We dive into the event loop, callback queues, call stack and V8",
-  "type": "Speaking (User Group/Meetup/Local events)",
-  "category": "Javascript/Typescript",
+  "type": "talk",
+  "categories": ["typescript", "javascript"],
   "url": "https://speakerdeck.com/khaosdoctor/dissecting-node-dot-js-understanding-the-most-famous-js-runtime-to-the-bare-bone"
 }, {
   "id": 26,
   "date": "2019-10-02T03:00:00.000Z",
   "title": "The dark side of JavaScript",
   "description": "In this talk we explore several unknown (or not so famous) JavaScript APIs for doing awesome things like Reflection, Async Iterators and more",
-  "type": "Speaking (User Group/Meetup/Local events)",
-  "category": "Javascript/Typescript",
+  "type": "talk",
+  "categories": ["typescript", "javascript"],
   "url": "https://speakerdeck.com/khaosdoctor/o-lado-escuro-do-javascript"
 }, {
   "id": 27,
   "date": "2019-10-01T03:00:00.000Z",
   "title": "The dark side of JavaScript",
   "description": "In this talk I present several new ways to do usual things in JS using unusual APIs. We talked about Reflection, Bitwise operators and more",
-  "type": "Speaking (User Group/Meetup/Local events)",
-  "category": "Javascript/Typescript",
+  "type": "talk",
+  "categories": ["typescript", "javascript"],
   "url": "https://speakerdeck.com/khaosdoctor/o-lado-escuro-do-javascript"
 }, {
   "id": 28,
   "date": "2019-09-30T03:00:00.000Z",
   "title": "Understanding messaging patterns with microservices",
   "description": "In this talk I gave to a class of university students, we explored the origin of MoA, messaging patterns and messaging protocols and several use cases.",
-  "type": "Speaking (User Group/Meetup/Local events)",
-  "category": "Azure Compute (VM, VMSS, HPC/Batch, Cloud Services)",
+  "type": "talk",
+  "categories": "Azure Compute (VM, VMSS, HPC/Batch, Cloud Services)",
   "url": "https://speakerdeck.com/khaosdoctor/mensageria-com-microsservicos-estendida"
 }, {
   "id": 29,
   "date": "2019-09-23T03:00:00.000Z",
   "title": "Node.js Under The Hood #2 - Understanding JavaScript (Portuguese edition)",
   "description": "In this translation of my last article in this series, we discuss about how the V8 engine runs JavaScript and how the call stack works.",
-  "type": "Article",
-  "category": "Node.js",
+  "type": "article",
+  "categories": ["nodejs", "javascript"],
   "url": "https://dev.to/khaosdoctor/node-js-por-baixo-dos-panos-2-entendendo-javascript-3np7"
 }, {
   "id": 30,
   "date": "2019-09-21T03:00:00.000Z",
   "title": "ABCDev 2019",
   "description": "ABCDev is the biggest technology event in the ABC region of São Paulo. In this event we talk about several topics, there's no limit to topics and we had 26 presentations in the course of two tracks along with a track fully dedicated to workshops. It's an annual event held in the ABC region, one of São Paulo's main residential areas. It's also one of the most diverse events in the country, we received 450 confirmed tickets and 322 people at once, about 40% of the event's attendees were part of underrepresented groups and they gave us the feedback that they felt welcome to talk about anything and any problem they were through. Besides, our speakers are always divided into 50% representation, so we had 26 talks in total, 13 of them of males and 13 of females (not to mention the gender representativity). This is by far the most inclusive event in the state.",
-  "type": "Organizer of Conference",
-  "category": "Javascript/Typescript",
+  "type": "event",
+  "categories": ["typescript", "javascript"],
   "url": "http://abcdevelopers.org"
 }, {
   "id": 31,
   "date": "2019-09-21T03:00:00.000Z",
   "title": "Kubernetes - Giving your infrastructure superpowers!",
   "description": "In this talk we discuss what Kubernetes is, how does it work, how can we use it along with a hands of example of how to spin up your own infrastructure, scale it and delete it in less than 5 minutes",
-  "type": "Speaking (Conference)",
-  "category": "Container Management",
+  "type": "talk",
+  "categories": "Container Management",
   "url": "https://speakerdeck.com/khaosdoctor/escalabilidade-de-servicos-com-kubernetes"
 }, {
   "id": 32,
   "date": "2019-09-19T03:00:00.000Z",
   "title": "Using Worker Threads in Node.js",
   "description": "Recently the Worker Threads API was marked stable for Node.js. This means we can now use async parallel processing in a stable fashion. We'll exemplify creating a simple blockchain miner.",
-  "type": "Article",
-  "category": "Node.js",
+  "type": "article",
+  "categories": ["nodejs", "javascript"],
   "url": "https://imasters.com.br/front-end/usando-worker-threads-no-node-js"
 }, {
   "id": 33,
   "date": "2019-09-11T03:00:00.000Z",
   "title": "Kubernetes - Giving your infrastructure superpowers!",
   "description": "In this talk we discuss what Kubernetes is, how does it work, how can we use it and in this particular meetup we discussed how we could use Kubernetes along with AI and ML.",
-  "type": "Speaking (User Group/Meetup/Local events)",
-  "category": "Container Management",
+  "type": "talk",
+  "categories": "Container Management",
   "url": "https://speakerdeck.com/khaosdoctor/escalabilidade-de-servicos-com-kubernetes"
 }, {
   "id": 34,
   "date": "2019-09-10T03:00:00.000Z",
   "title": "Node.js Under The Hood #2 - Understanding JavaScript",
   "description": "In this second article of the series, we discuss deeper how Node.js works under the hood starting by its most high level component: The JavaScript",
-  "type": "Article",
-  "category": "Javascript/Typescript",
+  "type": "article",
+  "categories": ["typescript", "javascript"],
   "url": "https://dev.to/khaosdoctor/node-js-under-the-hood-2-understanding-javascript-48cn"
 }, {
   "id": 35,
   "date": "2019-09-03T03:00:00.000Z",
   "title": "Node.js Under The Hood #1 - Getting to know our tools (Portuguese Edition)",
   "description": "In this series of articles I talk about the internals of Node.js and how we can better understand what is going on under the hood.",
-  "type": "Article",
-  "category": "Node.js",
+  "type": "article",
+  "categories": ["nodejs", "javascript"],
   "url": "https://dev.to/khaosdoctor/node-js-por-baixo-dos-panos-1-conhecendo-nossas-ferramentas-34b6"
 }, {
   "id": 36,
   "date": "2019-08-28T03:00:00.000Z",
   "title": "Node.js Under The Hood #1 - Getting to know our tools",
   "description": "In this series of articles I talk about the internals of Node.js and how we can better understand what is going on under the hood.",
-  "type": "Article",
-  "category": "Node.js",
+  "type": "article",
+  "categories": ["nodejs", "javascript"],
   "url": "https://dev.to/khaosdoctor/node-js-under-the-hood-1-getting-to-know-our-tools-1465"
 }, {
   "id": 37,
@@ -292,7 +292,7 @@
   "title": "TypeScriptBR #1 - Pilot",
   "description": "In this first meetup for the first ever Brazilian community fully focused on TypeScript we had the incredible presence of Orta Therox, one of the TS developers, answering some questions and sharing his knowledge with us. Along with 3 incredible talks about TS fundamentals, and advanced types.",
   "type": "Organizer (User Group/Meetup/Local Events)",
-  "category": "Javascript/Typescript",
+  "categories": ["typescript", "javascript"],
   "url": "https://www.meetup.com/typescriptbr/events/263425706/"
 }, {
   "id": 38,
@@ -300,79 +300,79 @@
   "title": "Kubernetes - An introduction to container management",
   "description": "This book is fully aimed to beginners and intermediate developers/devops who want to know more about network and infrastructure. In this book I go from the zero to hero on being a complete master in Kubernetes.",
   "type": "Book (Author)",
-  "category": "Container Management",
+  "categories": "Container Management",
   "url": "https://www.casadocodigo.com.br/products/livro-kubernetes"
 }, {
   "id": 39,
   "date": "2019-08-22T03:00:00.000Z",
   "title": "ESNext: GlobalThis and all you need to know about it",
   "description": "In this article we'll explore all the aspects of the newest GlobalThis proposal for Javascript",
-  "type": "Article",
-  "category": "Javascript/Typescript",
+  "type": "article",
+  "categories": ["typescript", "javascript"],
   "url": "https://imasters.com.br/desenvolvimento/esnext-globalthis-e-tudo-que-voce-precisa-saber-sobre-ele"
 }, {
   "id": 40,
   "date": "2019-08-21T03:00:00.000Z",
   "title": "Creating a Promise from Scratch",
   "description": "In this article we'll continue to learn about asynchronous flux in JavaScript by creating a simple Promise implementation from scratch, following the Promises/A+ implementation in Typescript",
-  "type": "Article",
-  "category": "Javascript/Typescript",
+  "type": "article",
+  "categories": ["typescript", "javascript"],
   "url": "https://dev.to/khaosdoctor/construindo-uma-promise-do-zero-4ndp"
 }, {
   "id": 41,
   "date": "2019-08-17T03:00:00.000Z",
   "title": "Dissecting Node.js - Understanding the most popular JS runtime to the bone",
   "description": "In this presentation I go deep inside Node.js, talking about not only how Node works but also how JavaScript, V8, Libuv and all other dependencies work together to create this awesome environment we have.",
-  "type": "Speaking (Conference)",
-  "category": "Node.js",
+  "type": "talk",
+  "categories": ["nodejs", "javascript"],
   "url": "https://speakerdeck.com/khaosdoctor/dissecting-node-dot-js-understanding-the-most-famous-js-runtime-to-the-bare-bone"
 }, {
   "id": 42,
   "date": "2019-08-01T03:00:00.000Z",
   "title": "Node.js Crypto - Securing applications natively",
   "description": "In this talk I present not only the concept of cryptography, but also how it evolved over the years, how cryptographic algorithms work and how we can implement heavy security without installing a single module",
-  "type": "Speaking (User Group/Meetup/Local events)",
-  "category": "Javascript/Typescript",
+  "type": "talk",
+  "categories": ["typescript", "javascript"],
   "url": "https://speakerdeck.com/khaosdoctor/nodejs-crypto"
 }, {
   "id": 43,
   "date": "2019-07-31T03:00:00.000Z",
   "title": "Controlling time with event sourcing and Typescript",
   "description": "In this talk I present the concept of Event Sourcing, how can we use it, how can it be useful and how can you do it by yourself!",
-  "type": "Speaking (User Group/Meetup/Local events)",
-  "category": "Javascript/Typescript",
+  "type": "talk",
+  "categories": ["typescript", "javascript"],
   "url": "https://speakerdeck.com/khaosdoctor/controlando-o-tempo-com-typescript-e-event-sourcing"
 }, {
   "id": 44,
   "date": "2019-07-28T03:00:00.000Z",
   "title": "Understanding Async Iterators",
   "description": "In this article I explain what are async iterators and how we can use their power to make promise chaining and promise loops more easily readable.",
-  "type": "Article",
-  "category": "Javascript/Typescript",
+  "type": "article",
+  "categories": ["typescript", "javascript"],
   "url": "https://dev.to/khaosdoctor/entendendo-async-iterators-1opo"
 }, {
   "id": 45,
   "date": "2019-07-24T03:00:00.000Z",
   "title": "Using Helm and Kubernetes to Create Dynamic Testing Environments",
   "description": "In this presentation for the São Paulo chapter of the Docker meetups, I introduce both Helm and Kubernetes along with CI tools in order to generate complete testing environments which are entirely dynamic. Along with a demo on how I did it and how others can also do it",
-  "type": "Speaking (User Group/Meetup/Local events)",
-  "category": "Azure DevOps",
+  "type": "talk",
+  "categories": "Azure DevOps",
   "url": "https://events.docker.com/events/details/docker-sao-paulo-presents-docker-sao-paulo-meetup-28-quinto-andar/"
 }, {
   "id": 46,
   "date": "2019-07-23T03:00:00.000Z",
   "title": "Applying Event Sourcing to Typescript projects using NodeJS and DDD",
   "description": "In this presentation I tell people how we implemented a real use case of Event Sourcing with Typescript and DDD in a huge plastic industry as well as concepts of: What is Event Sourcing, why Typescript, why DDD, the perks of MVC along with DDD and the perks of a layered architecture in Node.js",
-  "type": "Speaking (User Group/Meetup/Local events)",
-  "category": "Javascript/Typescript",
+  "type": "talk",
+  "categories": ["typescript", "javascript"],
   "url": "https://www.meetup.com/DevelopersBR/events/263092546/?_xtd=gqFyqTIxMjA2NDc4NqFwp2FuZHJvaWQ&from=ref"
 }, {
   "id": 47,
   "date": "2019-07-23T03:00:00.000Z",
   "title": "Giving your data superpowers using graphs and Neo4J",
   "description": "Have you ever considered to use or to think differently than the current relational databases? In this article I present a \"new\" way of thinking data, using graphs you can have both speed, flexibility and intelligence using Neo4J and native graph databases with graph algorithms",
-  "type": "Article",
-  "category": "Azure Cosmos DB",
+  "type": "article",
+  "categories": "Azure Cosmos DB",
   "url": "https://imasters.com.br/banco-de-dados/dando-superpoderes-aos-seus-dados-com-neo4j-e-grafos"
 }, {
   "id": 48,
@@ -380,55 +380,55 @@
   "title": "Serverless Week",
   "description": "A full week of online activities around the serverless architecture with awesome professionals. This event will also gather donations for social communities.",
   "type": "Organizer (User Group/Meetup/Local Events)",
-  "category": "Azure Compute (VM, VMSS, HPC/Batch, Cloud Services)",
+  "categories": "Azure Compute (VM, VMSS, HPC/Batch, Cloud Services)",
   "url": "https://slsweek.netlify.com/"
 }, {
   "id": 49,
   "date": "2019-07-20T03:00:00.000Z",
   "title": "Creating Dynamic Testing Environments Using Helm and Kubernetes",
   "description": "In this talk I present a way to separate your whole development structure by creating multiple complete environments which you can use for QA testing in a totally automated fashion using Helm and Kubernetes along with any CI",
-  "type": "Speaking (Conference)",
-  "category": "Container Management",
+  "type": "talk",
+  "categories": "Container Management",
   "url": "https://speakerdeck.com/khaosdoctor/ambientes-dinamicos-com-helm"
 }, {
   "id": 50,
   "date": "2019-07-20T03:00:00.000Z",
   "title": "Web Workers and Service Workers",
   "description": "In this presentation I talk about what is a web and a service worker, their types, uses and show code snippets anyone can implement in order to achieve complete control over caching, parallel processing and a lot of other applications",
-  "type": "Speaking (Conference)",
-  "category": "Front End Web Dev",
+  "type": "talk",
+  "categories": "Front End Web Dev",
   "url": "https://speakerdeck.com/khaosdoctor/web-workers-and-service-workers"
 }, {
   "id": 51,
   "date": "2019-07-19T03:00:00.000Z",
   "title": "Auditing applications with event sourcing and Typescript",
   "description": "In this particular talk I present the concepts of event sourcingand demo how we can use it along with typescript and VSCode to not only improve our code quality and efficiency but also to log and audit events in our entities",
-  "type": "Speaking (Conference)",
-  "category": "Javascript/Typescript",
+  "type": "talk",
+  "categories": ["typescript", "javascript"],
   "url": "https://speakerdeck.com/khaosdoctor/controlando-o-tempo-com-typescript-e-event-sourcing"
 }, {
   "id": 52,
   "date": "2019-07-18T03:00:00.000Z",
   "title": "Applying Event Sourcing in a Node.js application",
   "description": "In this talk I present techniques of how we can create a full application using event sourcing architecture and Node.js with Typescript",
-  "type": "Speaking (Conference)",
-  "category": "Javascript/Typescript",
+  "type": "talk",
+  "categories": ["typescript", "javascript"],
   "url": "https://speakerdeck.com/khaosdoctor/controlando-o-tempo-com-typescript-e-event-sourcing"
 }, {
   "id": 53,
   "date": "2019-07-18T03:00:00.000Z",
   "title": "Why your data relationships matter?",
   "description": "In this talk I present the concept of graph databases and how we can use, create and maintain our own graph model without hassle. Along with it and a simple example using Twitter data, we can extract a lot of intelligence using graph theory and graph algorithms",
-  "type": "Speaking (Conference)",
-  "category": "Azure Cosmos DB",
+  "type": "talk",
+  "categories": "Azure Cosmos DB",
   "url": "https://speakerdeck.com/khaosdoctor/por-que-suas-relacoes-importam"
 }, {
   "id": 54,
   "date": "2019-07-17T03:00:00.000Z",
   "title": "Understanding serverless in the serverless way",
   "description": "In this talk I explain what is serverless, pros, cons and all the opportunities we have when using this architecture",
-  "type": "Speaking (Conference)",
-  "category": "Azure Container Services (Docker, Windows Server)",
+  "type": "talk",
+  "categories": "Azure Container Services (Docker, Windows Server)",
   "url": "https://speakerdeck.com/khaosdoctor/a-arquitetura-serverless"
 }, {
   "id": 55,
@@ -436,87 +436,71 @@
   "title": "Nodeschool São Paulo #1",
   "description": "NodeSchool São Paulo is a monthly meetup dedicated to helping people learn JavaScript. We help people of all skill levels–from beginners to experts–discover what's possible with JavaScript. URL for the first event: https://www.meetup.com/nodeschoolsp/events/261811632/",
   "type": "Organizer (User Group/Meetup/Local Events)",
-  "category": "Javascript/Typescript",
+  "categories": ["typescript", "javascript"],
   "url": "https://nodeschool.io/saopaulo/"
 }, {
   "id": 56,
   "date": "2019-07-02T03:00:00.000Z",
   "title": "Decentralized Identity Using Sovrin - Part 3",
   "description": "In this last part of the series, we deep dive into the last remaining concepts of sovrin.",
-  "type": "Article",
-  "category": "Developer Security",
+  "type": "article",
+  "categories": "Developer Security",
   "url": "https://imasters.com.br/devsecops/identidade-decentralizada-com-sovrin-parte-3"
-}, {
-  "id": 57,
-  "date": "2019-06-26T03:00:00.000Z",
-  "title": "Event-Driven Architecture with Azure Functions and Azure Cosmos DB",
-  "description": "",
-  "type": "Product Group Interaction (PGI)",
-  "category": "Azure Cosmos DB",
-  "url": ""
-}, {
-  "id": 58,
-  "date": "2019-06-26T03:00:00.000Z",
-  "title": "CDM PGI – Discuss File Server Management Experiences - June 26, 2019 – Option 1",
-  "description": "",
-  "type": "Product Group Interaction (PGI)",
-  "category": "High Availability",
-  "url": ""
 }, {
   "id": 59,
   "date": "2019-06-25T03:00:00.000Z",
   "title": "Messaging with Microservices",
   "description": "In this presentation I introduce the whole concept of message oriented architecture, service bus, RPC, QoS and other core concepts of messaging. Along with definitions of broker, exchange, and how we can use it all with microservice architectures",
-  "type": "Speaking (User Group/Meetup/Local events)",
-  "category": "Javascript/Typescript",
+  "type": "talk",
+  "categories": ["typescript", "javascript"],
   "url": "https://speakerdeck.com/khaosdoctor/mensageria-com-microsservicos-estendida"
 }, {
   "id": 60,
   "date": "2019-06-21T03:00:00.000Z",
   "title": "Understanding Serverless",
   "description": "In this video and podcast we discuss what is serverless, use cases and how you can create your own functions. Link to podcast: https://anchor.fm/ouniversodaprogramacao/episodes/4-Desmistificando-Serverless-com-Igor-Halfeld-e-Lucas-Santos-e4dg8n",
-  "type": "Video/Webcast/Podcast",
-  "category": "Javascript/Typescript",
+  "type": "podcast",
+  "categories": ["typescript", "javascript"],
   "url": "https://www.youtube.com/watch?v=Ods_9suFMkw"
 }, {
   "id": 61,
   "date": "2019-06-21T03:00:00.000Z",
   "title": "Auditing your application with event sourcing e Typescript: VS Summit 2019",
   "description": "In this talk we discuss about what is Event Sourcing and how we can use the power of Typescript to take the most of this pattern.",
-  "type": "Speaking (Conference)",
-  "category": "Javascript/Typescript",
+  "type": "talk",
+  "categories": ["typescript", "javascript"],
   "url": "https://speakerdeck.com/khaosdoctor/controlando-o-tempo-com-typescript-e-event-sourcing"
 }, {
   "id": 62,
   "date": "2019-06-15T03:00:00.000Z",
   "title": "Building Dynamic Environments with Helm, Kubernetes and DevOps",
   "description": "In this talk we explore the limits of testing environments. Imagine how awesome would it be to have your own testing environment so you can test your features without messing with other people's code. This is the power Kubernetes gives you alongside Helm and Azure DevOps.",
-  "type": "Speaking (Conference)",
-  "category": "ARM & DevOps on Azure (Chef, Puppet, Salt, Ansible, Dev/Test Lab)",
+  "type": "talk",
+  "categories": "ARM & DevOps on Azure (Chef, Puppet, Salt, Ansible, Dev/Test Lab)",
   "url": "https://speakerdeck.com/khaosdoctor/ambientes-dinamicos-com-helm"
 }, {
   "id": 63,
   "date": "2019-06-14T03:00:00.000Z",
   "title": "The dark side of Javascript",
   "description": "In this talk we explore a bit more about the hidden functions of the Javascript language. Most people are so used to search and copy solutions from common problems directly from the web they forget Javascript has an awesome set of features.",
-  "type": "Speaking (Conference)",
-  "category": "Javascript/Typescript",
+  "type": "talk",
+  "categories": ["typescript", "javascript"],
   "url": "https://speakerdeck.com/khaosdoctor/o-lado-escuro-do-javascript"
 }, {
   "id": 64,
   "date": "2019-06-13T03:00:00.000Z",
   "title": "Decentralized Identity with Sovrin - part 2",
   "description": "In this article, I talk about how we can implement and use a decentralized framework called Sovrin to implement digital identity in a secure and easy fashion",
-  "type": "Article",
-  "category": "Developer Security",
+  "type": "article",
+  "categories": "Developer Security",
   "url": "https://imasters.com.br/devsecops/identidade-descentralizada-com-sovrin-parte-2"
 }, {
   "id": 65,
   "date": "2019-06-10T03:00:00.000Z",
   "title": "Podtag - Serverless",
   "description": "In this podcast we discuss what is serverless, how can it apply to your applications and best practices using functions. Along with some funny real stories.",
-  "type": "Video/Webcast/Podcast",
-  "category": "Azure Compute (VM, VMSS, HPC/Batch, Cloud Services)",
+  "type": "podcast",
+  "categories": "Azure Compute (VM, VMSS, HPC/Batch, Cloud Services)",
   "url": "https://podtag.com.br/tag-35-serverless"
 }, {
   "id": 66,
@@ -524,15 +508,15 @@
   "title": "NodeBR #51 - Javascript vs Typescript",
   "description": "A whole event focused on discussing the differences and how Typescript can make developers' life much easier. We also held a discussion group in the end with all the members. This event also held an official NodeJS user feedback session which was sent directly to the NodeJS Foundation.",
   "type": "Organizer (User Group/Meetup/Local Events)",
-  "category": "Javascript/Typescript",
+  "categories": ["typescript", "javascript"],
   "url": "https://www.meetup.com/nodebr/events/260955333/"
 }, {
   "id": 67,
   "date": "2019-06-03T03:00:00.000Z",
   "title": "Scalable cloud-based applications with AKS",
   "description": "In this meetup I talk about how we can create scalable cloud-based applications using the power of NodeJS with AKS. Also explaining some of the newest functionalities such as virtual nodes and auto scaling",
-  "type": "Speaking (User Group/Meetup/Local events)",
-  "category": "Node.js",
+  "type": "talk",
+  "categories": ["nodejs", "javascript"],
   "url": "https://www.meetup.com/azure-talks/events/259008750/"
 }, {
   "id": 68,
@@ -540,7 +524,7 @@
   "title": "Brazilian Portuguese documentation translation progress",
   "description": "A community effort to translate the whole Node.js documentation to Portuguese. This is one of my contributions, I intend to contribute to other documents as well as soon as I finish this section",
   "type": "Non-Microsoft Open Source Projects",
-  "category": "Node.js",
+  "categories": ["nodejs", "javascript"],
   "url": "https://github.com/nodejs/nodejs.org/pull/2263"
 }, {
   "id": 69,
@@ -548,63 +532,47 @@
   "title": "Node.js translation to Brazilian Portuguese",
   "description": "A community effort of which I'm one of the maintainers, in order to translate the whole documentation of Node.js to portuguese. I'm currently helping by managing and sorting users into their specific sections, reviewing PRs along with Node.js team and doing my own translation work.",
   "type": "Translation Review, Feedback and Editing",
-  "category": "Node.js",
+  "categories": ["nodejs", "javascript"],
   "url": "https://github.com/nodejs/nodejs-pt/issues/80"
 }, {
   "id": 70,
   "date": "2019-05-29T03:00:00.000Z",
   "title": "The velopers - Lucas Santos",
   "description": "In this interview I talk about my career and also how can new developers begin in the technology field. Exposing my personal opinions on the future of web and jobs with a lot of Javascript, Typescript, C# and PHP",
-  "type": "Video/Webcast/Podcast",
-  "category": "Javascript/Typescript",
+  "type": "video",
+  "categories": ["typescript", "javascript"],
   "url": "https://www.youtube.com/watch?v=Rk_U_qgzeTU&list=PLJcdaRtn5p0Ah9jW4lFUAsgaI1hGcMYE4"
 }, {
   "id": 71,
   "date": "2019-05-22T03:00:00.000Z",
   "title": "Decentralized Digital Identity with Sovrin",
   "description": "In this series of posts we will talk about how we can implement and understand core concepts of Sovrin, a blockchain-based solution to decentralize and give the power of identity back to people.",
-  "type": "Article",
-  "category": "Developer Security",
+  "type": "article",
+  "categories": "Developer Security",
   "url": "https://imasters.com.br/devsecops/identidade-decentralizada-com-sovrin"
-}, {
-  "id": 72,
-  "date": "2019-05-20T03:00:00.000Z",
-  "title": "Microsoft Azure PGI – “KEDA - Event Driven Scaling on Kubernetes” – May 20, 2019 – Option 1",
-  "description": "",
-  "type": "Product Group Interaction (PGI)",
-  "category": "Azure Compute (VM, VMSS, HPC/Batch, Cloud Services)",
-  "url": ""
 }, {
   "id": 73,
   "date": "2019-05-16T03:00:00.000Z",
   "title": "NodeBR",
   "description": "The biggest NodeJS community in Brazil. Recognized by Node Foundation as the official nodejs community in Brazil",
   "type": "Organizer (User Group/Meetup/Local Events)",
-  "category": "Javascript/Typescript",
+  "categories": ["typescript", "javascript"],
   "url": "https://www.meetup.com/nodebr"
 }, {
   "id": 74,
   "date": "2019-05-15T03:00:00.000Z",
   "title": "Azure Bootcamp #7",
   "description": "In this talk I recorded, I discuss and show how we can create a whole kubernetes cluster using AKS on azure",
-  "type": "Video/Webcast/Podcast",
-  "category": "Azure Container Services (Docker, Windows Server)",
+  "type": "video",
+  "categories": "Azure Container Services (Docker, Windows Server)",
   "url": "https://www.youtube.com/watch?v=dwwS4FmvYYg"
-}, {
-  "id": 75,
-  "date": "2019-05-14T03:00:00.000Z",
-  "title": "Azure Cognitive Services Updates from Build 2019",
-  "description": "",
-  "type": "Product Group Interaction (PGI)",
-  "category": "Azure Cognitive Services",
-  "url": ""
 }, {
   "id": 76,
   "date": "2019-05-09T03:00:00.000Z",
   "title": "Understanding promises once and for all",
   "description": "In this livestream I talk about Promises pattern and all that it represents in Javascript, along with its history and understanding of how we can use and understand promises.",
-  "type": "Video/Webcast/Podcast",
-  "category": "Javascript/Typescript",
+  "type": "video",
+  "categories": ["typescript", "javascript"],
   "url": "https://www.youtube.com/watch?v=wZwMVbgQZps"
 }, {
   "id": 77,
@@ -612,55 +580,55 @@
   "title": "NodeBR #49 - The layers of Node.js",
   "description": "In this meetup we organised several talks about Node Internals",
   "type": "Organizer (User Group/Meetup/Local Events)",
-  "category": "Javascript/Typescript",
+  "categories": ["typescript", "javascript"],
   "url": "https://www.meetup.com/nodebr/events/260955269/"
 }, {
   "id": 78,
   "date": "2019-05-08T03:00:00.000Z",
   "title": "The dark side of Javascript",
   "description": "In this article I talk about the parts of Javascript we don't use a lot. I discuss bitwise operators and other methods which can be very useful.",
-  "type": "Article",
-  "category": "Javascript/Typescript",
+  "type": "article",
+  "categories": ["typescript", "javascript"],
   "url": "https://imasters.com.br/desenvolvimento/o-lado-escuro-javascript"
 }, {
   "id": 79,
   "date": "2019-04-27T03:00:00.000Z",
   "title": "Controlling time with event sourcing and typescript",
   "description": "In this huge tech conference I talk about how we can implement event sourcing architecture using Typescript in real time",
-  "type": "Speaking (Conference)",
-  "category": "Javascript/Typescript",
+  "type": "talk",
+  "categories": ["typescript", "javascript"],
   "url": "http://www.thedevelopersconference.com.br/tdc/2019/florianopolis/trilha-design-de-codigo"
 }, {
   "id": 80,
   "date": "2019-04-15T03:00:00.000Z",
   "title": "ES10 and the future of Javascript",
   "description": "In this article I discuss what is about to come in the next version of Javascript for 2019",
-  "type": "Article",
-  "category": "Node.js",
+  "type": "article",
+  "categories": ["nodejs", "javascript"],
   "url": "https://imasters.com.br/desenvolvimento/es10-e-o-futuro-javascript"
 }, {
   "id": 81,
   "date": "2019-04-13T03:00:00.000Z",
   "title": "Real case - How event sourcing saved my project",
   "description": "In the MVP Conf LATAM 2019 I talk about a real case scenario where event sourcing, typescript and DDD saved our project from dying",
-  "type": "Speaking (Conference)",
-  "category": "Javascript/Typescript",
+  "type": "talk",
+  "categories": ["typescript", "javascript"],
   "url": "https://speakerdeck.com/khaosdoctor/event-sourcing-com-typescript-mvpconf"
 }, {
   "id": 82,
   "date": "2019-04-13T03:00:00.000Z",
   "title": "Quality beyond code",
   "description": "In this talk I discuss how we can dramatically improve our code quality without laying a single finger in your code",
-  "type": "Speaking (Conference)",
-  "category": "Accessibility",
+  "type": "talk",
+  "categories": "Accessibility",
   "url": "https://speakerdeck.com/khaosdoctor/qualidade-alem-do-codigo-mvpconf"
 }, {
   "id": 83,
   "date": "2019-04-10T03:00:00.000Z",
   "title": "Code Review: the right way",
   "description": "In this talk we break down all possible aspects of a good code review and how we can use this techniques to improve our team's delivery quality",
-  "type": "Speaking (Conference)",
-  "category": "Developer Security",
+  "type": "talk",
+  "categories": "Developer Security",
   "url": "https://www.devopsdays.org/events/2019-sao-paulo/speakers/lucas-santos/"
 }, {
   "id": 84,
@@ -668,39 +636,39 @@
   "title": "NodeBR #47 - Let's talk about frameworks",
   "description": "In this meetup I hosted and discussed about implementations of typescript in ORMs and other frameworks",
   "type": "Organizer (User Group/Meetup/Local Events)",
-  "category": "Node.js",
+  "categories": ["nodejs", "javascript"],
   "url": "https://www.meetup.com/nodebr/events/260039038/"
 }, {
   "id": 85,
   "date": "2019-04-09T03:00:00.000Z",
   "title": "Understanding Promises once and for all",
   "description": "In this complete article I talk about what is a Promise, their history, their proposal and how can we use Promises in different cases",
-  "type": "Article",
-  "category": "Javascript/Typescript",
+  "type": "article",
+  "categories": ["typescript", "javascript"],
   "url": "https://medium.com/trainingcenter/entendendo-promises-de-uma-vez-por-todas-32442ec725c2"
 }, {
   "id": 86,
   "date": "2019-04-08T03:00:00.000Z",
   "title": "Best performance practices using NodeJS in production environments",
   "description": "In this talk we discuss about our past experiences and how we learned the importance of performance planning and optimisation using NodeJS in production environments",
-  "type": "Speaking (User Group/Meetup/Local events)",
-  "category": "Node.js",
+  "type": "talk",
+  "categories": ["nodejs", "javascript"],
   "url": "https://www.meetup.com/nodebr/events/260257499/"
 }, {
   "id": 87,
   "date": "2019-04-03T03:00:00.000Z",
   "title": "Public and Private fields in Javascript classes",
   "description": "In thia article I discuss about the new implementations of public and private modifiers in javascript classes",
-  "type": "Article",
-  "category": "Javascript/Typescript",
+  "type": "article",
+  "categories": ["typescript", "javascript"],
   "url": "https://imasters.com.br/desenvolvimento/campos-publicos-e-privados-em-classes-javascript-o-que-vem-por-ai-no-esnext"
 }, {
   "id": 88,
   "date": "2019-03-19T03:00:00.000Z",
   "title": "Understanding Scopes in Javascript",
   "description": "In this article I talk about function and block scopes in Javascript, this is a pretty common misunderstanding amongst all the JS developers. If you had any doubts, now you'll understand!",
-  "type": "Article",
-  "category": "Javascript/Typescript",
+  "type": "article",
+  "categories": ["typescript", "javascript"],
   "url": "https://imasters.com.br/desenvolvimento/escopos-em-javascript"
 }, {
   "id": 89,
@@ -708,23 +676,15 @@
   "title": "Training Center Meetup",
   "description": "This is a discussion meetup about all things in programming and about aiding beginners to start their own programming lives",
   "type": "Organizer (User Group/Meetup/Local Events)",
-  "category": "Javascript/Typescript",
+  "categories": ["typescript", "javascript"],
   "url": "https://www.meetup.com/Training-Center-SP/events/259326906/"
-}, {
-  "id": 90,
-  "date": "2019-03-13T03:00:00.000Z",
-  "title": "Azure PGI - Location Intelligence with Azure Maps - Mar 13, 2019 – Option 1",
-  "description": "",
-  "type": "Product Group Interaction (PGI)",
-  "category": "Azure IoT",
-  "url": ""
 }, {
   "id": 91,
   "date": "2019-03-07T03:00:00.000Z",
   "title": "Building a layered architecture in NodeJS with Typescript",
   "description": "In this talk we discuss how we can create a full mixed event sourcing, MVC and DDD layered achitecture using Node and Typescript",
-  "type": "Video/Webcast/Podcast",
-  "category": "Javascript/Typescript",
+  "type": "video",
+  "categories": ["typescript", "javascript"],
   "url": "https://www.youtube.com/watch?v=VpUt7u-oA5c"
 }, {
   "id": 92,
@@ -732,55 +692,39 @@
   "title": "VueJS SP",
   "description": "Co Organizer of VueJS SP meetup group, the biggest VueJS community in São Paulo",
   "type": "Organizer (User Group/Meetup/Local Events)",
-  "category": "Javascript/Typescript",
+  "categories": ["typescript", "javascript"],
   "url": "https://www.meetup.com/vuejssp/"
 }, {
   "id": 93,
   "date": "2019-02-28T03:00:00.000Z",
   "title": "Web authentication in the era of Internet",
   "description": "In this meetup I talk about what is and how we can implement several types of web based authentication using NodeJS",
-  "type": "Speaking (User Group/Meetup/Local events)",
-  "category": "Node.js",
+  "type": "talk",
+  "categories": ["nodejs", "javascript"],
   "url": "https://www.meetup.com/nodebr/events/258798150/"
 }, {
   "id": 94,
   "date": "2019-02-27T03:00:00.000Z",
   "title": "Building an event sourcing application using typescript",
   "description": "In this livestream I show how we can harvest the full power of typescript and its typing capabilities to create an application completely based on the event sourcing pattern - Slides https://speakerdeck.com/khaosdoctor/event-sourcing-livestream-developersbr",
-  "type": "Video/Webcast/Podcast",
-  "category": "Javascript/Typescript",
+  "type": "video",
+  "categories": ["typescript", "javascript"],
   "url": "https://www.youtube.com/watch?v=ShzzilyzohU"
-}, {
-  "id": 95,
-  "date": "2019-02-26T03:00:00.000Z",
-  "title": "Microsoft Azure PGI - \"Bulletproof your Infrastructure in Azure Against DDoS Attacks\" - Feb 26, 2019 - Option 1",
-  "description": "",
-  "type": "Product Group Interaction (PGI)",
-  "category": "Azure Security and Compliance",
-  "url": ""
 }, {
   "id": 96,
   "date": "2019-02-26T03:00:00.000Z",
   "title": "Event Sourcing - Developing your first application",
   "description": "In this article I talk about how we can build a scalable application with an DDD-based architecture",
-  "type": "Article",
-  "category": "Javascript/Typescript",
+  "type": "article",
+  "categories": ["typescript", "javascript"],
   "url": "https://imasters.com.br/back-end/event-sourcing-desenvolvendo-sua-primeira-aplicacao/"
-}, {
-  "id": 97,
-  "date": "2019-02-20T03:00:00.000Z",
-  "title": "MINERVA: Technical Q&A (Project Minerva): Demo on AnswerHub - Feb 20, 2019 – Option 1",
-  "description": "",
-  "type": "Product Group Interaction (PGI)",
-  "category": "Azure App Service",
-  "url": ""
 }, {
   "id": 98,
   "date": "2019-02-15T02:00:00.000Z",
   "title": "Doctor",
   "description": "Tooling to manipulate event sourcing databases",
   "type": "Non-Microsoft Open Source Projects",
-  "category": "Javascript/Typescript",
+  "categories": ["typescript", "javascript"],
   "url": "https://github.com/nxcd/doctor"
 }, {
   "id": 99,
@@ -788,39 +732,15 @@
   "title": "Demo app for event sourcing",
   "description": "This demo app shows all the aspects of an event sourcing architecture based on MVC and DDD",
   "type": "Non-Microsoft Open Source Projects",
-  "category": "Javascript/Typescript",
+  "categories": ["typescript", "javascript"],
   "url": "https://github.com/khaosdoctor/event-sourcing-demo-app"
-}, {
-  "id": 100,
-  "date": "2019-02-12T02:00:00.000Z",
-  "title": "Azure PGI- “Creating Governed Subscriptions with Azure Blueprints - Azure MVP Discussion”- Feb 12, 2019 – Option 1",
-  "description": "",
-  "type": "Product Group Interaction (PGI)",
-  "category": "ARM & DevOps on Azure (Chef, Puppet, Salt, Ansible, Dev/Test Lab)",
-  "url": ""
-}, {
-  "id": 101,
-  "date": "2019-02-11T02:00:00.000Z",
-  "title": "EDU - \"Follow up on EDU Conference Announcements\" - Feb 11, 2019 – Option 1",
-  "description": "",
-  "type": "Product Group Interaction (PGI)",
-  "category": "Endpoint Manager",
-  "url": ""
-}, {
-  "id": 102,
-  "date": "2019-02-07T02:00:00.000Z",
-  "title": "FREE Azure DevOps Extension for Open Source Security",
-  "description": "",
-  "type": "Product Group Interaction (PGI)",
-  "category": "Azure DevOps",
-  "url": ""
 }, {
   "id": 103,
   "date": "2019-02-06T02:00:00.000Z",
   "title": "Event Sourcing architecture with Typescript",
   "description": "In this first article I explain what event sourcing is and how we can work with it. In the next few articles we'll talk about how we can create a completely new application using it and Typescript",
-  "type": "Article",
-  "category": "Node.js",
+  "type": "article",
+  "categories": ["nodejs", "javascript"],
   "url": "https://imasters.com.br/banco-de-dados/event-sourcing-arquitetura-que-pode-salvar-seu-projeto"
 }, {
   "id": 104,
@@ -828,7 +748,7 @@
   "title": "Personal Medium Blog",
   "description": "This is my personal Medium account where I post most of my technical content related to Javascript, Node and other technical subjects.",
   "type": "Technical Social Media (Twitter, Facebook, LinkedIn...)",
-  "category": "Javascript/Typescript",
+  "categories": ["typescript", "javascript"],
   "url": "https://medium.com/@khaosdoctor"
 }, {
   "id": 105,
@@ -836,47 +756,39 @@
   "title": "Next",
   "description": "Fast creation of projects, files and domains using event sourcing scalable architecture",
   "type": "Non-Microsoft Open Source Projects",
-  "category": "Javascript/Typescript",
+  "categories": ["typescript", "javascript"],
   "url": "https://github.com/nxcd/next"
-}, {
-  "id": 106,
-  "date": "2019-01-17T02:00:00.000Z",
-  "title": "CDM PGI: Azure Monitor for VMs - Jan 17, 2019 – Option 1",
-  "description": "",
-  "type": "Product Group Interaction (PGI)",
-  "category": "Datacenter Management",
-  "url": ""
 }, {
   "id": 107,
   "date": "2019-01-16T02:00:00.000Z",
   "title": "Software development testing",
   "description": "In this livestream we talked about automated tests. What are those, how we can implement such things and how to convince your boss that these are NOT a waste of time",
-  "type": "Video/Webcast/Podcast",
-  "category": "Javascript/Typescript",
+  "type": "video",
+  "categories": ["typescript", "javascript"],
   "url": "https://www.youtube.com/watch?v=_6AsQZQm32o"
 }, {
   "id": 108,
   "date": "2019-01-12T02:00:00.000Z",
   "title": "NodeJS Cryptography",
   "description": "In this talk I explain about cryptography itself and how we can achieve security using the NodeJS Crypto module.",
-  "type": "Speaking (User Group/Meetup/Local events)",
-  "category": "Node.js",
+  "type": "talk",
+  "categories": ["nodejs", "javascript"],
   "url": "https://www.meetup.com/Nerdzao/events/257370147/"
 }, {
   "id": 109,
   "date": "2019-01-12T02:00:00.000Z",
   "title": "NodeJS Security - Cryptography and Crypto Module",
   "description": "In this webcast recorded live I explain what is cryptography and how we can use it along with the NodeJS Crypto module to achieve full security in our applications",
-  "type": "Video/Webcast/Podcast",
-  "category": "Node.js",
+  "type": "video",
+  "categories": ["nodejs", "javascript"],
   "url": "https://youtu.be/8p2vgF0CLc8?t=4926"
 }, {
   "id": 110,
   "date": "2019-01-11T02:00:00.000Z",
   "title": "Securing your application using environment variables",
   "description": "In this article I talk about how we can secure our NodeJS applications using environment variables, along with an extended explanation on how to do so and what is environment variables at all.",
-  "type": "Article",
-  "category": "Node.js",
+  "type": "article",
+  "categories": ["nodejs", "javascript"],
   "url": "https://imasters.com.br/desenvolvimento/protegendo-seus-dados-utilizando-variaveis-de-ambiente"
 }, {
   "id": 111,
@@ -884,87 +796,71 @@
   "title": "Developer Handbook",
   "description": "Sets of guidelines to aid developers on creating scalable architectures",
   "type": "Non-Microsoft Open Source Projects",
-  "category": "Javascript/Typescript",
+  "categories": ["typescript", "javascript"],
   "url": "https://github.com/nxcd/developer-handbook"
 }, {
   "id": 112,
   "date": "2018-12-14T02:00:00.000Z",
   "title": "Computação Quântica – Desvendando o futuro dos computadores",
   "description": "In this article I talk about what quantum computing is, how it works and how it'll affect our daily lives in the future.",
-  "type": "Article",
-  "category": "Azure Compute (VM, VMSS, HPC/Batch, Cloud Services)",
+  "type": "article",
+  "categories": "Azure Compute (VM, VMSS, HPC/Batch, Cloud Services)",
   "url": "https://imasters.com.br/desenvolvimento/computacao-quantica-desvendando-o-futuro-dos-computadores"
 }, {
   "id": 113,
   "date": "2018-12-13T02:00:00.000Z",
   "title": "Nerdzão #83 - Node.js for the beginner and superheroes",
   "description": "In this talk I explained how we could use streams in a beginner way. Most of the attendees were just getting into this world and it was an awesome experience to share my knowledge with them.",
-  "type": "Speaking (User Group/Meetup/Local events)",
-  "category": "Javascript/Typescript",
+  "type": "talk",
+  "categories": ["typescript", "javascript"],
   "url": "https://www.meetup.com/Nerdzao/events/256898963/"
-}, {
-  "id": 114,
-  "date": "2018-12-12T02:00:00.000Z",
-  "title": "Cloud and Datacenter Management - System Center 2019 Overview - Dec 12, 2018 – Option 1",
-  "description": "",
-  "type": "Product Group Interaction (PGI)",
-  "category": "Datacenter Management",
-  "url": ""
 }, {
   "id": 115,
   "date": "2018-12-08T02:00:00.000Z",
   "title": "TDC 2018 - Porto Alegre",
   "description": "During this conference I talked about prototypes with Javascript and how we can better understand this feature in Javascript/NodeJS",
-  "type": "Speaking (Conference)",
-  "category": "Javascript/Typescript",
+  "type": "talk",
+  "categories": ["typescript", "javascript"],
   "url": "http://www.thedevelopersconference.com.br/tdc/2018/portoalegre/trilha-javascript"
 }, {
   "id": 116,
   "date": "2018-11-29T02:00:00.000Z",
   "title": "Serverless Architecture using Node & Azure Functions",
   "description": "In this meetup I talked about the serverless architecture itself and gave examples of how we could transform this into a real thing using the power of azure functions",
-  "type": "Speaking (User Group/Meetup/Local events)",
-  "category": "Javascript/Typescript",
+  "type": "talk",
+  "categories": ["typescript", "javascript"],
   "url": "https://www.meetup.com/Javascript-SP/events/256643153"
 }, {
   "id": 117,
   "date": "2018-11-28T02:00:00.000Z",
   "title": "Qualidade além do código – Organização e comunicação",
   "description": "In this article we discuss the possibilities of improving code quality without laying a single finger in your code through developer culture, tooling, processes and several other ideas",
-  "type": "Article",
-  "category": "Developer Security",
+  "type": "article",
+  "categories": "Developer Security",
   "url": "https://imasters.com.br/desenvolvimento/qualidade-alem-codigo-organizacao-e-comunicacao"
 }, {
   "id": 118,
   "date": "2018-11-28T02:00:00.000Z",
   "title": "#4 Meetop Talk's - Edição Javascript - Parceria NodeBR - NatalNerd",
   "description": "In this meetup I talked about JS streams and how they can be applied to a real world scenario",
-  "type": "Speaking (User Group/Meetup/Local events)",
-  "category": "Javascript/Typescript",
+  "type": "talk",
+  "categories": ["typescript", "javascript"],
   "url": "https://www.meetup.com/meetop/events/256180906/"
-}, {
-  "id": 119,
-  "date": "2018-11-27T02:00:00.000Z",
-  "title": "Cosmos DB Updates and Roadmap",
-  "description": "",
-  "type": "Product Group Interaction (PGI)",
-  "category": "Azure Cosmos DB",
-  "url": ""
 }, {
   "id": 120,
   "date": "2018-11-27T02:00:00.000Z",
   "title": "Paradox",
   "description": "Paradox is an Open Source lib to aid the development of event-based applications using the event sourcing architecture with Typescript as base language",
   "type": "Sample Code/Projects/Tools",
-  "category": "Javascript/Typescript",
+  "categories": ["typescript", "javascript"],
   "url": "https://github.com/nxcd/paradox"
 }, {
   "id": 121,
   "date": "2018-11-24T02:00:00.000Z",
   "title": ".NET Conf SJC",
   "description": "Conference presented at São José dos Campos in the state of São Paulo where I talked about Kubernetes as it is and Kubernetes using AKS",
-  "type": "Speaking (User Group/Meetup/Local events)",
-  "category": "Azure Container Services (Docker, Windows Server)",
+  "type": "talk",
+  "categories": "Azure Container Services (Docker, Windows Server)",
   "url": "https://www.sympla.com.br/net-conf-sjcampos__343110"
 }, {
   "id": 122,
@@ -972,63 +868,55 @@
   "title": "NodeBR Telegram Group",
   "description": "Very active member and moderator of NodeBR Telegram group talking about nodejs and javascript daily",
   "type": "Organizer (User Group/Meetup/Local Events)",
-  "category": "Node.js",
+  "categories": ["nodejs", "javascript"],
   "url": "https://t.me/nodebr"
 }, {
   "id": 123,
   "date": "2018-11-14T02:00:00.000Z",
   "title": "É programador, desenvolvedor, analista, cientista, engenheiro ou o que? - YouTube",
   "description": "In this webcast we discussed a few points about career in the software development industry",
-  "type": "Video/Webcast/Podcast",
-  "category": "Accessibility",
+  "type": "video",
+  "categories": "Accessibility",
   "url": "https://www.youtube.com/watch?v=NJnV3JIx9as"
-}, {
-  "id": 124,
-  "date": "2018-11-13T02:00:00.000Z",
-  "title": "Product feedback about AKS",
-  "description": "I was trying to send this feedback via MVP DL about azure container services but I couldn't find how. So I submited the feedback via azure portal. - Product feedback about the whole azure AKS experience - Product feedback about AKS cluster scalability tool",
-  "type": "Product Group Feedback (General)",
-  "category": "Container Management",
-  "url": ""
 }, {
   "id": 125,
   "date": "2018-11-12T02:00:00.000Z",
   "title": "Qualidade além do código: além do time",
   "description": "In this article I talk about how we can increase our productivity and development quality in a team without having to lay a single finger in our code. We go through programming good practices, repository management and GitFlow implementation on Github.",
-  "type": "Article",
-  "category": "Accessibility",
+  "type": "article",
+  "categories": "Accessibility",
   "url": "https://imasters.com.br/gerencia-de-projetos-dev-e-ti/qualidade-alem-codigo-alem-time"
 }, {
   "id": 126,
   "date": "2018-11-06T02:00:00.000Z",
   "title": "Roda de Discussão - NodeBR",
   "description": "Durante esta roda de discussão abordamos temas como: - Uso de Typescript para desenvolvimento em escala - Uso de Event Sourcing com Typescript - Uso de clouds como a Azure para podermos tirar o maior proveito de serviços como Kubernetes - Segurança na nuvem: NoSQL Injection, GDPR, proteções em clouds",
-  "type": "Speaking (User Group/Meetup/Local events)",
-  "category": "Javascript/Typescript",
+  "type": "talk",
+  "categories": ["typescript", "javascript"],
   "url": "https://www.meetup.com/nodebr/events/255649756/"
 }, {
   "id": 127,
   "date": "2018-11-06T02:00:00.000Z",
   "title": "Controling time with Typescript and Event Sourcing",
   "description": "In this talk I spoke about how we can take advantage of types and all the power Typescript offers us to apply the concept and implementation of the event sourcing architecture to control events in a real world project.",
-  "type": "Speaking (User Group/Meetup/Local events)",
-  "category": "Javascript/Typescript",
+  "type": "talk",
+  "categories": ["typescript", "javascript"],
   "url": "https://www.meetup.com/nodebr/events/255649756/"
 }, {
   "id": 128,
   "date": "2018-10-24T03:00:00.000Z",
   "title": "Qual é o salário de um desenvolvedor?",
   "description": "Uma live session com dois community leaders para discutirmos sobre salários de desenvolvedores e dar dicas de carreira para os assinantes e espectadores ao vivo.",
-  "type": "Video/Webcast/Podcast",
-  "category": "Accessibility",
+  "type": "video",
+  "categories": "Accessibility",
   "url": "https://www.youtube.com/watch?v=j8GenNjjrvw"
 }, {
   "id": 129,
   "date": "2018-10-17T03:00:00.000Z",
   "title": "Qualidade além do código: Indo além da tela",
   "description": "Nesta série de artigos vamos falar sobre como podemos aumentar a nossa capacidade de entrega e qualidade sem tocar um dedo no nosso código. Nesta primeira parte falamos sobre times e interação entre pessoas.",
-  "type": "Article",
-  "category": "Accessibility",
+  "type": "article",
+  "categories": "Accessibility",
   "url": "https://imasters.com.br/desenvolvimento/qualidade-alem-codigo-indo-alem-da-tela"
 }, {
   "id": 130,
@@ -1036,71 +924,71 @@
   "title": "Tardis - An Event Sourcing framework built with Typescript",
   "description": "Tardis is an implementation library built to aid in the event sourcing architecture. At first, it was created to serve internal purposes and then published so the community could take advantage of the marvels Typescript can do using Event Sourcing.",
   "type": "Sample Code/Projects/Tools",
-  "category": "Javascript/Typescript",
+  "categories": ["typescript", "javascript"],
   "url": "https://github.com/nxcd/tardis"
 }, {
   "id": 131,
   "date": "2018-10-01T03:00:00.000Z",
   "title": "Qualidade de Código - 7Masters",
   "description": "Palestra sobre qualidade de código feita para o iMasters em um desafio de 7 minutos chamado 7 masters. Link da palestra: https://speakerdeck.com/khaosdoctor/qualidade-alem-do-codigo",
-  "type": "Speaking (User Group/Meetup/Local events)",
-  "category": "Accessibility",
+  "type": "talk",
+  "categories": "Accessibility",
   "url": "https://setemasters.imasters.com.br/conversas/qualidade-alem-do-codigo/"
 }, {
   "id": 132,
   "date": "2018-10-01T03:00:00.000Z",
   "title": "Implementando autenticação JWT – O Front-End | iMasters",
   "description": "Mostrando como implementar manualmente uma integração JWT-React passo a passo",
-  "type": "Article",
-  "category": "Javascript/Typescript",
+  "type": "article",
+  "categories": ["typescript", "javascript"],
   "url": "https://imasters.com.br/back-end/implementando-autenticacao-jwt-o-front-end"
 }, {
   "id": 133,
   "date": "2018-10-01T03:00:00.000Z",
   "title": "Implementando autenticação JWT – O Back-end | iMasters",
   "description": "Implementação de um back-end de requisições para utilização de JWT manualmente.",
-  "type": "Article",
-  "category": "Javascript/Typescript",
+  "type": "article",
+  "categories": ["typescript", "javascript"],
   "url": "https://imasters.com.br/back-end/implementando-autenticacao-jwt-o-back-end"
 }, {
   "id": 134,
   "date": "2018-10-01T03:00:00.000Z",
   "title": "Implementando autenticação JWT utilizando React | iMasters",
   "description": "Implementação e uso manual do JWT através de APIs usando React e NodeJS em produção.",
-  "type": "Article",
-  "category": "Javascript/Typescript",
+  "type": "article",
+  "categories": ["typescript", "javascript"],
   "url": "https://imasters.com.br/front-end/implementando-autenticacao-jwt-utilizando-react"
 }, {
   "id": 135,
   "date": "2018-07-30T03:00:00.000Z",
   "title": "Streams no Node.js: o que são streams, afinal? – Parte 03",
   "description": "Neste artigo explico a terceria parte de como podemos implementar uma aplicação utilizando streams no Node.js",
-  "type": "Article",
-  "category": "Node.js",
+  "type": "article",
+  "categories": ["nodejs", "javascript"],
   "url": "https://imasters.com.br/back-end/streams-no-node-js-o-que-sao-streams-afinal-parte-03"
 }, {
   "id": 136,
   "date": "2018-07-18T03:00:00.000Z",
   "title": "Streams no Node.js: o que são streams, afinal? – Parte 02",
   "description": "Segunda parte do artigo sobre implementação de streams no Node.js",
-  "type": "Article",
-  "category": "Node.js",
+  "type": "article",
+  "categories": ["nodejs", "javascript"],
   "url": "https://imasters.com.br/back-end/streams-no-node-js-o-que-sao-streams-afinal-parte-02"
 }, {
   "id": 137,
   "date": "2018-06-27T03:00:00.000Z",
   "title": "Streams no Node.js: o que são streams, afinal? – Parte 01",
   "description": "Neste artigo de três partes, apresento como podemos utilizar Streams no Node.js sem nenhuma biblioteca externa",
-  "type": "Article",
-  "category": "Node.js",
+  "type": "article",
+  "categories": ["nodejs", "javascript"],
   "url": "https://imasters.com.br/back-end/streams-no-node-js-o-que-sao-streams-afinal-parte-01"
 }, {
   "id": 138,
   "date": "2018-05-23T03:00:00.000Z",
   "title": "TC Talks #9",
   "description": "Meetup do Training Center, com a intenção de criar um ambiente para network e para os participantes (ou não) da nossa comunidade terem a oportunidade de se encontrar. Não conhece o Training Center ainda? Acesse nosso site: https://trainingcenter.io/ Quer enviar uma proposta de palestra? 19:30 - apresentação de 10 minutos. 19:40 - Talk 1 de 30 minutos 20:10 - 20 minutos de coffee 20:30 - Talk 2 de 30 minutos Depois abre pra happy e networking. Entrada: A apresentação do DOCUMENTO é OBRIGATÓRIA para a participação, informe no momento do cadastro no evento. Observação: Para participar do evento e palestrar leia nosso Código de Conduta (https://github.com/training-center/sobre/blob/master/CONDUCT.md) e esteja de acordo para que possamos proporcionar uma ambiente agradável para todos. APRESENTAÇÕES Talk 1 \"Usabilidade em Aplicações Móveis\" com Ingrid Mendes (https://twitter.com/_didingrid) Irei apresentar o conceito de Usabilidade da literatura técnica, junto com um modelo voltado para verificar a Usabilidade em Aplicações Móveis, contemplando os desafios inerentes à esse tipo de aplicação. Talk 2 \"Ícones - por que se importar?\" com Rachel Pardo (https://dribbble.com/shel) Da construção consistente de uma iconografia à validação com usuário.",
-  "type": "Organizer of Conference",
-  "category": "Front End Web Dev",
+  "type": "event",
+  "categories": "Front End Web Dev",
   "url": "https://www.meetup.com/pt-BR/Training-Center-SP/events/250762241/"
 }, {
   "id": 139,
@@ -1108,7 +996,7 @@
   "title": "Utilizando AVA para testar seu código",
   "description": "Neste artigo mostro como podemos tirar proveito do AVA, um test runner assíncrono, na hora de testar nosso código javascript/typescript",
   "type": "Blog/Website Post",
-  "category": "Javascript/Typescript",
+  "categories": ["typescript", "javascript"],
   "url": "https://imasters.com.br/desenvolvimento/utilizando-ava-para-testar-seu-codigo/"
 }, {
   "id": 140,
@@ -1116,15 +1004,15 @@
   "title": "Funções assíncronas e retornos: como o Async/Await tornaram o código mais legível",
   "description": "Nesta postagem informo como as funções assíncronas facilitaram o uso do Javascript e como podemos tirar proveito de seus tipos de retorno.",
   "type": "Blog/Website Post",
-  "category": "Javascript/Typescript",
+  "categories": ["typescript", "javascript"],
   "url": "https://imasters.com.br/desenvolvimento/funcoes-assincronas-e-retornos-como-o-async-await-tornaram-o-codigo-mais-legivel/"
 }, {
   "id": 141,
   "date": "2018-04-25T03:00:00.000Z",
   "title": "TC Talks #8",
   "description": "Meetup do Training Center, com a intenção de criar um ambiente para network e para os participantes (ou não) da nossa comunidade terem a oportunidade de se encontrar. Não conhece o Training Center ainda? Acesse nosso site: https://trainingcenter.io/ Quer enviar uma proposta de palestra? Acesse https://www.papercall.io/tctalks8 19:30 - apresentação de 10 minutos. 19:40 - Talk 1 de 30 minutos 20:10 - 20 minutos de coffee 20:30 - Talk 2 de 30 minutos Depois abre pra happy e networking. Entrada: A apresentação do DOCUMENTO é OBRIGATÓRIA para a participação, informe no momento do cadastro no evento. Observação: Para participar do evento e palestrar leia nosso Código de Conduta (https://github.com/training-center/sobre/blob/master/CONDUCT.md) e esteja de acordo para que possamos proporcionar uma ambiente agradável para todos. APRESENTAÇÕES Talk 1 \"Pull requests - Por quê? Como?\" com Allan Ramos (https://twitter.com/allangrds) Talk 2 \"Limpando o Céu Nublado - Como vencer medos e o stress na hora de programar\" com Felipe Dutra",
-  "type": "Organizer of Conference",
-  "category": "Accessibility",
+  "type": "event",
+  "categories": "Accessibility",
   "url": "https://www.meetup.com/pt-BR/Training-Center-SP/events/249841842/"
 }, {
   "id": 142,
@@ -1132,15 +1020,15 @@
   "title": "TDC 2018 - Florianópolis",
   "description": "Apresentação da palestra sobre \"Performance de aplicações Node.js em produção\" no The Developers Conference em Florianópolis.",
   "type": "Conference (Staffing)",
-  "category": "Node.js",
+  "categories": ["nodejs", "javascript"],
   "url": "http://www.thedevelopersconference.com.br/tdc/2018/florianopolis/trilha-nodejs"
 }, {
   "id": 143,
   "date": "2018-04-16T03:00:00.000Z",
   "title": "O que está por vir no JavaScript em 2018",
   "description": "Mostro neste artigo quais são as principais features do ES2018 que está para chegar.",
-  "type": "Article",
-  "category": "Javascript/Typescript",
+  "type": "article",
+  "categories": ["typescript", "javascript"],
   "url": "https://imasters.com.br/front-end/javascript/o-que-esta-por-vir-no-javascript-em-2018/"
 }, {
   "id": 144,
@@ -1148,47 +1036,47 @@
   "title": "NodeBR Live - Feel the Future",
   "description": "Live talk apresentada através do youtube com o objetivo de demonstrar em código o que foi apresentado no meetup NodeBR #37.",
   "type": "Conference (Staffing)",
-  "category": "Node.js",
+  "categories": ["nodejs", "javascript"],
   "url": ""
 }, {
   "id": 145,
   "date": "2018-04-11T03:00:00.000Z",
   "title": "NodeBR Live - Feel the Future",
   "description": "Live coding relativo ao https://www.meetup.com/nodebr/events/249191326/ aonde apresento tecnologias novas como GraphQL",
-  "type": "Speaking (User Group/Meetup/Local events)",
-  "category": "Node.js",
+  "type": "talk",
+  "categories": ["nodejs", "javascript"],
   "url": "https://www.youtube.com/watch?v=GU2nu9u7qOA"
 }, {
   "id": 146,
   "date": "2018-04-11T03:00:00.000Z",
   "title": "TC + NodeBR Live #1: O Poder do GraphQL com NodeJS",
   "description": "Nesta live mostro como podemos criar um servidor GraphQL utilizando Node.js juntamente com um projeto exemplo",
-  "type": "Video/Webcast/Podcast",
-  "category": "Node.js",
+  "type": "video",
+  "categories": ["nodejs", "javascript"],
   "url": "https://www.youtube.com/watch?v=GU2nu9u7qOA"
 }, {
   "id": 147,
   "date": "2018-04-10T03:00:00.000Z",
   "title": "JSSP #13 - Otimização de aplicações Javascript",
   "description": "Participei como palestrante apresentando a seguinte talk: https://speakerdeck.com/khaosdoctor/melhores-praticas-de-desempenho-com-nodejs-em-producao",
-  "type": "Speaking (User Group/Meetup/Local events)",
-  "category": "Javascript/Typescript",
+  "type": "talk",
+  "categories": ["typescript", "javascript"],
   "url": "https://www.meetup.com/Javascript-SP/events/249144483/"
 }, {
   "id": 148,
   "date": "2018-04-04T03:00:00.000Z",
   "title": "NodeBR #37 - Feel the future",
   "description": "Palestra sobre motivação, exemplos e uso de GraphQL utilizando como modelo as aplicações NodeJS",
-  "type": "Speaking (User Group/Meetup/Local events)",
-  "category": "Node.js",
+  "type": "talk",
+  "categories": ["nodejs", "javascript"],
   "url": "https://www.meetup.com/nodebr/events/249191326/"
 }, {
   "id": 149,
   "date": "2018-04-04T03:00:00.000Z",
   "title": "CI com microsserviços",
   "description": "Neste artigo mostro como podemos utilizar um CI com a arquitetura de microsserviços utilizando Kubernetes.",
-  "type": "Article",
-  "category": "Container Management",
+  "type": "article",
+  "categories": "Container Management",
   "url": "https://imasters.com.br/desenvolvimento/ci-com-microsservicos/"
 }, {
   "id": 150,
@@ -1196,15 +1084,15 @@
   "title": "APICON 2018",
   "description": "Palestrante da APICON2018 sobre o tema \"Serverless\" utilizando e explicando a plataforma Azure Functions",
   "type": "Conference (Staffing)",
-  "category": "Azure Compute (VM, VMSS, HPC/Batch, Cloud Services)",
+  "categories": "Azure Compute (VM, VMSS, HPC/Batch, Cloud Services)",
   "url": "http://apicon.com.br"
 }, {
   "id": 151,
   "date": "2018-03-21T03:00:00.000Z",
   "title": "TC Talks #7",
   "description": "Sétimo meetup do Training Center, com a intenção de criar um ambiente para network e para os participantes (ou não) da nossa comunidade terem a oportunidade de se encontrar. Não conhece o Training Center ainda? Acesse nosso site: https://trainingcenter.io/ GetNinjas (https://www.getninjas.com.br/) 19:30 - apresentação de 10 minutos. 19:40 - Talk 1 de 30 minutos 20:10 - 20 minutos de coffee 20:30 - Talk 2 de 30 minutos Depois abre pra happy e networking. Entrada: A apresentação do DOCUMENTO é OBRIGATÓRIA para a participação, informe no momento do cadastro no evento. Observação: Para participar do evento e palestrar leia nosso Código de Conduta (https://github.com/training-center/sobre/blob/master/CONDUCT.md) e esteja de acordo para que possamos proporcionar uma ambiente agradável para todos. APRESENTAÇÕES Talk 1 \"Quando ansiedade deixa de ser algo normal\" com William Oliveira (https://twitter.com/w_oliveiras) Talk 2 \"CNV na visão de um Dev\" com Kirmayr Tomaz (https://twitter.com/kirmayrtomaz)",
-  "type": "Organizer of Conference",
-  "category": "Accessibility",
+  "type": "event",
+  "categories": "Accessibility",
   "url": "https://www.meetup.com/pt-BR/Training-Center-SP/events/248751000/"
 }, {
   "id": 152,
@@ -1212,31 +1100,23 @@
   "title": "Training Center",
   "description": "Organizador, mantenedor e membro do Core group da comunidade de desenvolvimento de software totalmente open source voltada a ajudar todos que estiverem dispostos a aprender",
   "type": "Organizer (User Group/Meetup/Local Events)",
-  "category": "Front End Web Dev",
+  "categories": "host",
   "url": "https://trainingcenter.io"
 }, {
   "id": 153,
   "date": "2018-03-02T03:00:00.000Z",
   "title": "Utilizando GotQL para melhorar sua experiência GraphQL",
   "description": "Artigo demonstrando o poder da ferramenta de minha autoria chamada GotQL para desenvolvedores poderem consumir APIs em GraphQL",
-  "type": "Article",
-  "category": "Javascript/Typescript",
+  "type": "article",
+  "categories": ["typescript", "javascript"],
   "url": "https://medium.com/@khaosdoctor/utilizando-gotql-para-transformar-sua-experi%C3%AAncia-com-graphql-1c54d6013eff"
-}, {
-  "id": 154,
-  "date": "2018-03-02T03:00:00.000Z",
-  "title": "Help4Papers",
-  "description": "Projeto open source sem fins lucrativos que visa dar feedbacks e ajuda para todas as pessoas que querem palestrar",
-  "type": "Other",
-  "category": "Front End Web Dev",
-  "url": "http://fernandabernardo.com.br/help4papers/"
 }, {
   "id": 155,
   "date": "2018-02-06T02:00:00.000Z",
   "title": "Melhores práticas de performance utilizando Node.js em produção",
   "description": "Workshop técnico focado em melhores práticas de performance com aplicações Node.js.",
-  "type": "Speaking (Conference)",
-  "category": "Node.js",
+  "type": "talk",
+  "categories": ["nodejs", "javascript"],
   "url": "https://github.com/codeprestige/curso-performancenode"
 }, {
   "id": 156,
@@ -1244,7 +1124,7 @@
   "title": "GotQL",
   "description": "Implementação de um parser e uma linguagem JSON-like para interação de clientes com interfaces GraphQL",
   "type": "Sample Code/Projects/Tools",
-  "category": "Node.js",
+  "categories": ["nodejs", "javascript"],
   "url": "https://github.com/khaosdoctor/gotql"
 }, {
   "id": 157,
@@ -1252,7 +1132,7 @@
   "title": "Fórum iMasters de tecnologia",
   "description": "",
   "type": "Forum Participation (3rd Party forums)",
-  "category": ".NET",
+  "categories": ".NET",
   "url": "https://forum.imasters.com.br/profile/169265-khaosdoctor/"
 }, {
   "id": 158,
@@ -1260,23 +1140,23 @@
   "title": "Moderador .NET",
   "description": "Moderador .NET e Javascript no fórum iMasters de tecnologia.",
   "type": "Forum Moderator",
-  "category": ".NET",
+  "categories": ".NET",
   "url": "https://forum.imasters.com.br/profile/169265-khaosdoctor/"
 }, {
   "id": 159,
   "date": "2017-12-15T02:00:00.000Z",
   "title": "O Maravilhoso Mundo das Comunidades",
   "description": "Palestra não técnica apresentando os maiores e melhores pontos de comunidades de desenvolvimentos de software, apresentada no TC Talks SP: https://speakerdeck.com/khaosdoctor/o-maravilhoso-mundo-das-comunidades",
-  "type": "Speaking (User Group/Meetup/Local events)",
-  "category": "Accessibility",
+  "type": "talk",
+  "categories": "Accessibility",
   "url": "https://www.meetup.com/Training-Center-SP/events/245235869/"
 }, {
   "id": 160,
   "date": "2017-12-14T02:00:00.000Z",
   "title": "Melhores práticas de desempenho utilizando Node.js em produção",
   "description": "Palestra técnica sobre melhores práticas de desempenho utilizando Node.js https://speakerdeck.com/khaosdoctor/melhores-praticas-de-desempenho-com-nodejs-em-producao",
-  "type": "Speaking (User Group/Meetup/Local events)",
-  "category": "Node.js",
+  "type": "talk",
+  "categories": ["nodejs", "javascript"],
   "url": "https://www.meetup.com/nodebr/events/246613295/"
 }, {
   "id": 161,
@@ -1284,71 +1164,71 @@
   "title": "StackOverflow",
   "description": "",
   "type": "Forum Participation (3rd Party forums)",
-  "category": "PHP",
+  "categories": "PHP",
   "url": "https://pt.stackoverflow.com/users/17502/khaosdoctor"
 }, {
   "id": 162,
   "date": "2017-11-25T02:00:00.000Z",
   "title": "Introdução a gerencia de container utilizando Kubernetes",
   "description": "Palestra apresentada como treinamento técnico de pessoal e palestra externa mostrando os melhores pontos para iniciantes em gerencia de containers utilizando Kubernetes",
-  "type": "Speaking (User Group/Meetup/Local events)",
-  "category": "Container Management",
+  "type": "talk",
+  "categories": "Container Management",
   "url": "https://speakerdeck.com/khaosdoctor/introducao-a-kubernetes"
 }, {
   "id": 163,
   "date": "2017-11-24T02:00:00.000Z",
   "title": "Javascript Maps: Entendendo o conceito",
   "description": "Artigo descrevendo a funcionalidade de Maps e uso dos mesmos em Javascript",
-  "type": "Article",
-  "category": "Javascript/Typescript",
+  "type": "article",
+  "categories": ["typescript", "javascript"],
   "url": "https://medium.com/trainingcenter/javascript-maps-entendendo-o-conceito-8654d5eb1314"
 }, {
   "id": 164,
   "date": "2017-11-08T02:00:00.000Z",
   "title": "Herança e protótipos no Javascript",
   "description": "Artigo descrevendo o uso de protótipos e heranças em Javascript",
-  "type": "Article",
-  "category": "Javascript/Typescript",
+  "type": "article",
+  "categories": ["typescript", "javascript"],
   "url": "https://medium.com/trainingcenter/heran%C3%A7a-e-prot%C3%B3tipos-no-javascript-2c1e60e005a2"
 }, {
   "id": 165,
   "date": "2017-11-06T02:00:00.000Z",
   "title": "Entendendo Generators em Javascript",
   "description": "Artigos descrevendo o uso e o entendimento de generators e Javascript.",
-  "type": "Article",
-  "category": "Javascript/Typescript",
+  "type": "article",
+  "categories": ["typescript", "javascript"],
   "url": "https://medium.com/trainingcenter/javascript-entendendo-generators-408cbce9aee"
 }, {
   "id": 166,
   "date": "2017-11-01T02:00:00.000Z",
   "title": "Entendendo Iterators em Javascript",
   "description": "Artigo demonstrando a utilização e o entendimento de Iterators em Javascript",
-  "type": "Article",
-  "category": "Javascript/Typescript",
+  "type": "article",
+  "categories": ["typescript", "javascript"],
   "url": "https://medium.com/trainingcenter/iterators-em-javascript-880adef14495"
 }, {
   "id": 167,
   "date": "2017-10-30T02:00:00.000Z",
   "title": "Reflection em Javascript",
   "description": "Artigo explicando o conceito e usabilidade de reflection em Javascript",
-  "type": "Article",
-  "category": "Javascript/Typescript",
+  "type": "article",
+  "categories": ["typescript", "javascript"],
   "url": "https://medium.com/trainingcenter/reflection-em-javascript-73fc0e702e2"
 }, {
   "id": 168,
   "date": "2017-10-25T02:00:00.000Z",
   "title": "Módulos no Javascript",
   "description": "Artigo explicando a fundo módulos em Javascript",
-  "type": "Article",
-  "category": "Javascript/Typescript",
+  "type": "article",
+  "categories": ["typescript", "javascript"],
   "url": "https://medium.com/trainingcenter/entendendo-m%C3%B3dulos-no-javascript-73bce1d64dbf"
 }, {
   "id": 169,
   "date": "2017-10-23T02:00:00.000Z",
   "title": "Utilizando tokens JWT para comunicação eficiente",
   "description": "Artigo explicando como seria a funcionalidade JWT aplicada para melhor segurança de APIs",
-  "type": "Article",
-  "category": "Developer Security",
+  "type": "article",
+  "categories": "Developer Security",
   "url": "https://medium.com/trainingcenter/jwt-usando-tokens-para-comunica%C3%A7%C3%A3o-eficiente-cf0551c0dd99"
 }, {
   "id": 170,
@@ -1356,15 +1236,15 @@
   "title": "Mentoria",
   "description": "Mentor de programadores iniciantes a avançados. Foco em Back end",
   "type": "Other",
-  "category": "Javascript/Typescript",
+  "categories": ["typescript", "javascript"],
   "url": "https://github.com/training-center/mentoria"
 }, {
   "id": 171,
   "date": "2017-09-30T03:00:00.000Z",
   "title": "ABCDev #2",
   "description": "O maior evento de tecnologia do grande ABC. Não focado em nenhuma área específica mas sim em transformar desenvolvedores em grandes profissionais.",
-  "type": "Organizer of Conference",
-  "category": "Front End Web Dev",
+  "type": "event",
+  "categories": "Front End Web Dev",
   "url": "http://2017.abcdevelopers.org/"
 }, {
   "id": 172,
@@ -1372,31 +1252,31 @@
   "title": "DevTranslate",
   "description": "Participação em traduções e sugestões de código para o projeto.",
   "type": "Non-Microsoft Open Source Projects",
-  "category": "Front End Web Dev",
+  "categories": "Front End Web Dev",
   "url": "https://devtranslate.github.io/#!/"
 }, {
   "id": 173,
   "date": "2017-06-13T03:00:00.000Z",
   "title": "Mocks, Stubs em testes unitários",
   "description": "Artigo explicando a utilização de mocks e stubs em testes unitários",
-  "type": "Article",
-  "category": "Javascript/Typescript",
+  "type": "article",
+  "categories": ["typescript", "javascript"],
   "url": "https://medium.com/trainingcenter/testes-unit%C3%A1rios-mocks-stubs-spies-e-todas-essas-palavras-dif%C3%ADceis-f2765ac87cc8"
 }, {
   "id": 174,
   "date": "2017-05-27T03:00:00.000Z",
   "title": "Testes de software",
   "description": "Artigo explicando a importancia de testes em software",
-  "type": "Article",
-  "category": "Javascript/Typescript",
+  "type": "article",
+  "categories": ["typescript", "javascript"],
   "url": "https://medium.com/trainingcenter/testes-o-que-s%C3%A3o-aonde-vivem-4b8dfe12269e"
 }, {
   "id": 175,
   "date": "2017-05-20T03:00:00.000Z",
   "title": "Microserviços",
   "description": "Artigo explicando a arquitetura de micro serviços",
-  "type": "Article",
-  "category": "Javascript/Typescript",
+  "type": "article",
+  "categories": ["typescript", "javascript"],
   "url": "https://medium.com/trainingcenter/microservi%C3%A7os-dos-grandes-mon%C3%B3litos-%C3%A0s-pequenas-rotas-adb70303b6a3"
 }, {
   "id": 176,
@@ -1404,7 +1284,7 @@
   "title": "Aprenda istanbul",
   "description": "Tradução do artigo para aprendizado de Istanbul como coverage de código",
   "type": "Translation Review, Feedback and Editing",
-  "category": "Front End Web Dev",
+  "categories": "Front End Web Dev",
   "url": "https://github.com/khaosdoctor/learn-istanbul"
 }, {
   "id": 177,
@@ -1412,14 +1292,6 @@
   "title": "Padrões de projeto para humanos",
   "description": "Tradução do artigo de aprendizado de padrões de projeto",
   "type": "Translation Review, Feedback and Editing",
-  "category": "Front End Web Dev",
+  "categories": "Front End Web Dev",
   "url": "https://github.com/khaosdoctor/design-patterns-for-humans/tree/translation"
-}, {
-  "id": 178,
-  "date": "2017-03-03T03:00:00.000Z",
-  "title": "Contribuição para Visual Studio Code",
-  "description": "Contribuição para a ideia de transformar os tokens do editor de forma configurável. Ideia que foi aceita e implementada nas revisões futuras.",
-  "type": "Non-Microsoft Open Source Projects",
-  "category": "Node.js",
-  "url": "https://github.com/Microsoft/vscode/issues/11556"
 }]
