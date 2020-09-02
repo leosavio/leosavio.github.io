@@ -4,7 +4,7 @@ style: dark
 user:
   email: hello@lsantos.dev
   bio: 'Lucas works as Cloud Advocate ad Microsoft. Technology lover and, since 2011, works with highly available and scalable applications. Loves to teach and learn, writer of "Kubernetes: Everything you need to know about container orchestration".   Named as Microsoft Most Valued Professional and as Google Developer Expert. Member & Contributor to the Node.js Foundation, helping to translate the Node.js runtime documentations to Portuguese. Acts as technical author at iMasters hub, one of the biggest Brazilian tech websites. Also is one of the core members of several awesome communities such as: NodeBR, JSSP, VueJs SP, Typescript BR, NodeSchool SP, TrainingCenter and ABCDev. Homebrewer in the free time, loves music and games! Always seeking the unknown and believes the impossible is just lack of trying.'
-  sponsorLink: https://rb.gy/dqhi1t
+  sponsorLink: https://blog.lsantos.dev/doacoes/?utm_source=site&utm_medium=link_support&utm_campaign=fixed_link
   GA: UA-102442319-1
 
 plugins:
