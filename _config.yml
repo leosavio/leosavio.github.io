@@ -53,7 +53,11 @@ social_media:
   #youtube: "channel/UCki-WnBzwzpvbBDk4swJniQ?sub_confirmation=1"
 
 topics:
-  - name: NodeJS
+  - name: Java
+    web_url: https://github.com/topics/java
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png
+    
+    - name: NodeJS
     web_url: https://github.com/topics/nodejs
     image_url: https://raw.githubusercontent.com/github/explore/fd96fceccf8c42c99cbe29cf0f8dcc4736fcb85a/topics/nodejs/nodejs.png
 
@@ -73,10 +77,9 @@ topics:
     web_url: https://github.com/topics/kubernetes
     image_url: https://raw.githubusercontent.com/github/explore/46beb428f6ba77f5de33ba7633402379aba5d92d/topics/kubernetes/kubernetes.png
 
-  - name: Python
-    web_url: https://github.com/topics/python
-    image_url: https://raw.githubusercontent.com/github/explore/46beb428f6ba77f5de33ba7633402379aba5d92d/topics/python/python.png
-
+  - name: Rust
+    web_url: https://github.com/topics/rust
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png
   - name: Go
     web_url: https://github.com/topics/go
     image_url: https://raw.githubusercontent.com/github/explore/46beb428f6ba77f5de33ba7633402379aba5d92d/topics/go/go.png
@@ -85,9 +88,9 @@ topics:
     web_url: https://github.com/topics/vue
     image_url: https://raw.githubusercontent.com/github/explore/46beb428f6ba77f5de33ba7633402379aba5d92d/topics/vue/vue.png
 
-  - name: React
-    web_url: https://github.com/topics/react
-    image_url: https://raw.githubusercontent.com/github/explore/46beb428f6ba77f5de33ba7633402379aba5d92d/topics/react/react.png
+  - name: Ansible
+    web_url: https://github.com/topics/ansible
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png
 
   - name: Terraform
     web_url: https://github.com/topics/terraform
@@ -97,6 +100,6 @@ topics:
     web_url: https://github.com/topics/css
     image_url: https://raw.githubusercontent.com/github/explore/46beb428f6ba77f5de33ba7633402379aba5d92d/topics/css/css.png
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/46beb428f6ba77f5de33ba7633402379aba5d92d/topics/sass/sass.png
+  - name: Rancher
+    web_url: https://github.com/rancher
+    image_url: https://avatars3.githubusercontent.com/u/9343010?s=200&v=4
