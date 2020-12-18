@@ -3,7 +3,7 @@ style: dark
 
 user:
   email: leosavio@leosavio.com
-  bio: 'WIP'
+  bio: "I'm Leonardo Savio, a Brazilian, Senior Business Solutions Architect, passionate back-end developer. I've been a developer since 2010. Professional passionate about Microservices, Java, security IT environments, IOT, Embedded Systems and Technology."
   sponsorLink: #
   GA: #
 
@@ -26,7 +26,7 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 6
+  limit: 9
   exclude:
     forks: true
     projects:
@@ -45,7 +45,7 @@ social_media:
   linkedin: leosavio
   #mvp: 5003259
   stackoverflow: 7286078
-  #twitter: _staticvoid
+  twitter: LeoSavioTars
   #telegram: lhs_santoss
   #devto: khaosdoctor
   #medium: "@khaosdoctor"
@@ -80,6 +80,7 @@ topics:
   - name: Rust
     web_url: https://github.com/topics/rust
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png
+
   - name: Go
     web_url: https://github.com/topics/go
     image_url: https://raw.githubusercontent.com/github/explore/46beb428f6ba77f5de33ba7633402379aba5d92d/topics/go/go.png
@@ -103,3 +104,10 @@ topics:
   - name: Rancher
     web_url: https://github.com/rancher
     image_url: https://avatars3.githubusercontent.com/u/9343010?s=200&v=4
+
+  - name: AWS
+    web_url: https://github.com/topics/aws
+    image_url: https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png
+
+
+
