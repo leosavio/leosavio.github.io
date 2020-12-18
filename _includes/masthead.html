@@ -44,10 +44,12 @@
         <a style="color: inherit;" href="{{ site.user.sponsorLink }}" target="_blank">Support my work!</a>
       </div>
     {% endif %}
+      <!--
       <div class="{{ metadata_styles }} {% if site.style == 'dark' %}text-white{% endif %}">
         {% octicon book height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:Sponsor %}
         <a style="color: inherit;" href="https://tudosobrekubernetes.tech" target="_blank">Check out my book!</a>
       </div>
+      -->
     {% if site.social_media %}
       <div class="d-flex flex-wrap flex-items-start {% if site.layout == 'stacked' %}flex-justify-center mt-1 mt-md-3{% endif %}">
         {% for account in site.social_media %}
