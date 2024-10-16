@@ -70,7 +70,7 @@ topics:
     web_url: https://github.com/topics/kubernetes
     image_url: https://raw.githubusercontent.com/github/explore/46beb428f6ba77f5de33ba7633402379aba5d92d/topics/kubernetes/kubernetes.png
 
-  - name: CLoudflare
+  - name: Cloudflare
     web_url: https://www.cloudflare.com/learning/
     image_url: https://github.com/leosavio/leosavio.github.io/blob/master/assets/Cloudflare.png?raw=true
   
