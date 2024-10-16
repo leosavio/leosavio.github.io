@@ -70,9 +70,13 @@ topics:
     web_url: https://github.com/topics/kubernetes
     image_url: https://raw.githubusercontent.com/github/explore/46beb428f6ba77f5de33ba7633402379aba5d92d/topics/kubernetes/kubernetes.png
 
+  - name: CLoudflare
+    web_url: https://www.cloudflare.com/learning/
+    image_url: https://github.com/leosavio/leosavio.github.io/blob/master/assets/Cloudflare.png?raw=true
+  
   - name: Generative AI
     web_url: https://microsoft.github.io/generative-ai-for-beginners/#/
-    iamge_url: https://github.com/leosavio/leosavio.github.io/blob/master/assets/GenAi2024.png?raw=true
+    image_url: https://github.com/leosavio/leosavio.github.io/blob/master/assets/GenAi2024.png?raw=true
 
   - name: Serverless
     web_url: https://github.com/topics/serverless
@@ -94,10 +98,6 @@ topics:
     web_url: https://github.com/topics/nodejs
     image_url: https://raw.githubusercontent.com/github/explore/fd96fceccf8c42c99cbe29cf0f8dcc4736fcb85a/topics/nodejs/nodejs.png
   
-  - name: Docker
-    web_url: https://github.com/topics/docker
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/docker/docker.png
-
   - name: Rust
     web_url: https://github.com/topics/rust
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png
