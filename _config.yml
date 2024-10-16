@@ -74,6 +74,14 @@ topics:
     web_url: https://microsoft.github.io/generative-ai-for-beginners/#/
     iamge_url: https://github.com/leosavio/leosavio.github.io/blob/master/assets/GenAi2024.png?raw=true
 
+  - name: Serverless
+    web_url: https://github.com/topics/serverless
+    image_url: https://github.com/leosavio/leosavio.github.io/blob/master/assets/Serverless.png?raw=true
+
+  - name: MicroService
+    web_url: https://martinfowler.com/microservices/
+    image_url: https://github.com/leosavio/leosavio.github.io/blob/master/assets/Microservice.png?raw=true
+
   - name: Openshift
     web_url: https://github.com/openshift
     image_url: https://avatars.githubusercontent.com/u/792337?s=200&v=4
@@ -109,7 +117,3 @@ topics:
   - name: Raspberry Pi
     web_url: https://github.com/topics/raspberry-pi
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png
-
-  - name: Serverless
-    web_url: https://github.com/topics/serverless
-    image_url: https://github.com/leosavio/leosavio.github.io/blob/master/assets/Serverless.png?raw=true
