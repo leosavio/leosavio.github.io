@@ -70,6 +70,11 @@ topics:
     web_url: https://github.com/topics/kubernetes
     image_url: https://raw.githubusercontent.com/github/explore/46beb428f6ba77f5de33ba7633402379aba5d92d/topics/kubernetes/kubernetes.png
 
+  - name: Generative AI
+    web_url: https://microsoft.github.io/generative-ai-for-beginners/#/
+    iamge_url: https://github.com/leosavio/leosavio.github.io/blob/master/assets/GenAi2024.png?raw=true
+
+
   - name: Openshift
     web_url: https://github.com/openshift
     image_url: https://avatars.githubusercontent.com/u/792337?s=200&v=4
