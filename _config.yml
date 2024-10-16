@@ -3,7 +3,7 @@ style: dark
 
 user:
   email: leosavio@leosavio.com
-  bio: "I'm Leonardo Savio, a Brazilian, Senior Cloud Architect, passionate AI and backend developer. I've been a developer since 2010. Professional passionate about Microservices, Cloud, Java, AI, Serverless, security IT environments, IOT, Embedded Systems and Technology."
+  bio: "I'm Leonardo Savio, a Senior Cloud Architect from Brazil, passionate about AI, backend development, and solving complex problems through innovative solutions. I've been working as a developer since 2010, constantly evolving with the latest technologies."
   sponsorLink: #
   GA: G-MN2KJVTRX4
 
@@ -54,18 +54,26 @@ social_media:
   #youtube: "channel/UCki-WnBzwzpvbBDk4swJniQ?sub_confirmation=1"
 
 topics:
+  - name: AWS
+    web_url: https://github.com/topics/aws
+    image_url: https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png
+
+  - name: Terraform
+    web_url: https://github.com/topics/terraform
+    image_url: https://raw.githubusercontent.com/github/explore/a78365e1ed698ba6441a91508591e863cf1f9590/topics/terraform/terraform.png
+ 
   - name: Java
     web_url: https://github.com/topics/java
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png
+
+  - name: Kubernetes
+    web_url: https://github.com/topics/kubernetes
+    image_url: https://raw.githubusercontent.com/github/explore/46beb428f6ba77f5de33ba7633402379aba5d92d/topics/kubernetes/kubernetes.png
 
   - name: Openshift
     web_url: https://github.com/openshift
     image_url: https://avatars.githubusercontent.com/u/792337?s=200&v=4
 
-  - name: AWS
-    web_url: https://github.com/topics/aws
-    image_url: https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png
-    
   - name: Python
     web_url: https://github.com/topics/python
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
@@ -73,22 +81,10 @@ topics:
   - name: NodeJS
     web_url: https://github.com/topics/nodejs
     image_url: https://raw.githubusercontent.com/github/explore/fd96fceccf8c42c99cbe29cf0f8dcc4736fcb85a/topics/nodejs/nodejs.png
-
-  - name: Terraform
-    web_url: https://github.com/topics/terraform
-    image_url: https://raw.githubusercontent.com/github/explore/a78365e1ed698ba6441a91508591e863cf1f9590/topics/terraform/terraform.png
-    
-  - name: TypeScript
-    web_url: https://github.com/topics/typescript
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/typescript/typescript.png
-
+  
   - name: Docker
     web_url: https://github.com/topics/docker
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/docker/docker.png
-
-  - name: Kubernetes
-    web_url: https://github.com/topics/kubernetes
-    image_url: https://raw.githubusercontent.com/github/explore/46beb428f6ba77f5de33ba7633402379aba5d92d/topics/kubernetes/kubernetes.png
 
   - name: Rust
     web_url: https://github.com/topics/rust
@@ -98,10 +94,6 @@ topics:
     web_url: https://github.com/topics/linux
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png
 
-  - name: Go
-    web_url: https://github.com/topics/go
-    image_url: https://raw.githubusercontent.com/github/explore/46beb428f6ba77f5de33ba7633402379aba5d92d/topics/go/go.png
-
   - name: Vue
     web_url: https://github.com/topics/vue
     image_url: https://raw.githubusercontent.com/github/explore/46beb428f6ba77f5de33ba7633402379aba5d92d/topics/vue/vue.png
@@ -110,11 +102,10 @@ topics:
     web_url: https://github.com/topics/ansible
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png
 
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/46beb428f6ba77f5de33ba7633402379aba5d92d/topics/css/css.png
+  - name: Raspberry Pi
+    web_url: https://github.com/topics/raspberry-pi
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png
 
-
-
-
-
+  - name: Serverless
+    web_url: https://github.com/topics/serverless
+    image_url:
