@@ -1,0 +1,37 @@
+{% include header.html %}
+
+{% capture post_body %}
+
+    {% if site.layout == 'stacked' %}
+    <div class="container-lg py-6 p-responsive">
+        <ul class="list-unstyled">
+        {% assign recent_posts = site.posts | sort: 'date' | reverse %}
+        {% for post in recent_posts %}
+            <li class="mb-4">
+            <h2><a href="{{ post.url }}" class="post-link">{{ post.title }}</a></h2>
+            <p class="post-date">{{ post.date | date: "%B %d, %Y" }}</p>
+            <a href="{{ post.url }}">{{ post.excerpt }}</a></h2>
+            </li>
+        {% endfor %}
+        </ul>
+    </div>
+    {% else %}
+    <h3 class="text-gray-dark mr-3 mr-sm-0">Something went wrong</h3>
+    {% endif %}
+
+{% endcapture %}
+
+{% if site.layout == 'stacked' %}
+  <div class="container-lg py-6 p-responsive text-center">
+    {% include masthead.html metadata=false %}
+
+    <div class="container-md f4 text-left border rounded-2 bg-white p-3 p-sm-5 mt-6">
+      <p class="f5"><a href="/" class="d-flex flex-items-center">{% octicon chevron-left height:16 class:"mr-2 v-align-middle" fill:#0366d6 aria-label:Home %}Home</a></p>
+      {{ post_body }}
+    </div>
+  </div>
+{% else %}
+<h3 class="text-gray-dark mr-3 mr-sm-0">Something went wrong</h3>
+{% endif %}
+
+{% include footer.html %}

@@ -27,6 +27,8 @@
 
 .article {
 
+  color: #000000; /* black text */
+
   h1,
   h2,
   h3,
@@ -40,9 +42,79 @@
     border-left: 2px solid #959da5;
     padding-left: 16px;
   }
+
+  .post-date {
+    color: #999; /* Light gray for the date */
+    font-size: 0.9em;
+  }
 }
 
 .user-anchor {
   color: white;
   text-decoration: underline;
+}
+
+// post adding
+
+.recent-posts ul {
+  list-style-type: none;
+  padding: 0;
+}
+.recent-posts li {
+  margin-bottom: 0.5em;
+}
+.menu-item {
+  color: #000000; /* Adjust red color for the menu items */
+  font-weight: bold;
+}
+
+/* Styles for Recent Posts */
+.post-link {
+  color: #007bff; /* Brighter blue for the link */
+  font-weight: bold;
+}
+
+.post-link:hover {
+  text-decoration: underline;
+}
+
+.post-date {
+  color: #999; /* Light gray for the date */
+  font-size: 0.9em;
+}
+
+.container-lg ul.list-unstyled li {
+  margin-bottom: 1.5em; /* Spacing between posts */
+}
+
+.container-lg {
+  color: #ffffff; /* Ensuring text is visible on dark backgrounds */
+}
+
+// code blocks style
+/* Styling for inline code */
+code {
+  background-color: #2d2d2d; /* Dark background */
+  color: #f8f8f2; /* Light text */
+  padding: 2px 4px;
+  border-radius: 4px;
+  font-size: 0.95em;
+}
+
+/* Styling for code blocks */
+pre {
+  background-color: #2d2d2d; /* Dark background */
+  color: #f8f8f2; /* Light text */
+  padding: 1em;
+  border-radius: 6px;
+  overflow-x: auto; /* Allows horizontal scrolling */
+}
+
+/* Optional: Differentiate code keywords if your theme supports syntax highlighting */
+pre code {
+  color: #f8f8f2;
+}
+
+.text-force-black {
+  color: black;
 }

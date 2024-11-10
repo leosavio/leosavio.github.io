@@ -3,7 +3,7 @@ style: dark
 
 user:
   email: leosavio@leosavio.com
-  bio: "I'm Leonardo Savio, a Senior Cloud Architect from Brazil, passionate about AI, backend development, and solving complex problems through innovative solutions. I've been working as a developer since 2010, constantly evolving with the latest technologies."
+  bio: "I'm Leonardo Savio, a Cloud Architect from Brazil, passionate about AI, backend development, and solving complex problems through innovative solutions. I've been working as a developer since 2010, constantly evolving with the latest technologies."
   sponsorLink: #
   GA: G-MN2KJVTRX4
 
@@ -20,6 +20,8 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+
+recent_posts_limit: 5
 
 projects:
   sort_by: pushed
