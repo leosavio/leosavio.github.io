@@ -118,3 +118,47 @@ pre code {
 .text-force-black {
   color: black;
 }
+
+/* Footer Styling */
+.site-footer {
+  background-color: #1a1a1a; /* Dark background color */
+  color: #ffffff; /* White text */
+  padding: 20px 0;
+  font-size: 0.9em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.site-footer .container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.site-footer a {
+  color: #ffffff;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.site-footer a:hover {
+  color: #007bff; /* Accent color on hover */
+}
+
+.footer-branding, .footer-nav, .footer-copyright {
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+@media (min-width: 768px) {
+  .site-footer .container {
+      flex-direction: row;
+      justify-content: space-between;
+  }
+
+  .footer-branding, .footer-nav, .footer-copy {
+      text-align: left;
+      margin-bottom: 0;
+  }
+}
