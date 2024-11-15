@@ -23,6 +23,6 @@ Link to AWS doc: [Read here](https://docs.aws.amazon.com/IAM/latest/UserGuide/id
 - How to obtain root credentials on a member account
 
 Official AWS Blog Post: [Read here](https://aws.amazon.com/blogs/aws/centrally-managing-root-access-for-customers-using-aws-organizations/)
-Link to Github Gist Author script: [Click here](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_root-user.html#id_root-user-access-management)
+Link to Github Gist Author script: [Click here](https://gist.github.com/sebsto/6f7c9eaf500ac11756a86babde75ffc0)
 
 - By centralizing root access management, AWS IAM empowers organizations to simplify operations, reduce risks, and strengthen their security posture. Explore this feature today to enhance your organization’s account management strategy!
