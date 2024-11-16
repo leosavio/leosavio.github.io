@@ -14,7 +14,10 @@ Managing root access for member accounts in AWS Organizations has always been a 
 This new capability addresses longstanding challenges, providing a streamlined approach to enhance security and operational efficiency in multi-account environments. ... More on:
 
 Official AWS Blog Post: [Read here](https://aws.amazon.com/blogs/aws/centrally-managing-root-access-for-customers-using-aws-organizations/)
+
 Link to AWS doc: [Read here](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_root-user.html#id_root-user-access-management)
+
+Commit trackiam: [Explore here](https://github.com/leosavio/ext-trackiam/commit/e58d27aef70a0b207e9d1dcd226ed837a33c512e)
 
 ---
 
